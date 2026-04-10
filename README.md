@@ -28,16 +28,18 @@
 - [AI Avatar Generators](#ai-avatar-generators)
 - [AI Tools for Small Businesses](#ai-tools-for-small-businesses)
 
+---
+
 ## AI Chatbot Platforms
 
 AI chatbot platforms have swiftly emerged as crucial resources for contemporary companies — they assist clients and increase revenues 24/7. The right platform can save you time and improve the customer experience, whether you're running an online store, providing services, or building your personal brand. This carefully researched list highlights some of the [best AI chatbot platforms](https://www.aimiracle.ai/ai-collections/best-ai-chatbot-platforms/) available today — with different features, pricing, and use cases ranging from simple live chat to advanced automation.
 
-- [Tidio](https://www.tidio.com) - AI chatbot for SMBs
-- [ChatBot.com](https://www.chatbot.com) - No-code chatbot builder
-- [ChatNode.ai](https://www.chatnode.ai) - Custom AI chatbots on your data
-- [ManyChat](https://www.manychat.com) - AI chatbot for social media
+- [Tidio](https://www.aimiracle.ai/go/tidio/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI chatbot for SMBs
+- [ChatBot.com](https://www.aimiracle.ai/go/chatbot/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - No-code chatbot builder
+- [ChatNode.ai](https://www.aimiracle.ai/go/chatnode/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Custom AI chatbots on your data
+- [ManyChat](https://www.aimiracle.ai/go/manychat/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI chatbot for social media
 - [Drift](https://www.drift.com) - AI chatbot for sales teams
-- [Chatfuel](https://www.chatfuel.com) - AI business assistant
+- [Chatfuel](https://www.aimiracle.ai/go/chatfuel/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI business assistant
 - [Botpress](https://botpress.com) - Open-source conversational AI
 - [Intercom](https://www.intercom.com) - Customer support AI
 
@@ -53,9 +55,9 @@ The best AI workflow automation tools are designed to simplify tasks, reduce man
 - [GetResponse](https://www.getresponse.com) - Email marketing automation
 - [MailerLite](https://www.mailerlite.com) - Simple email automation
 - [Close CRM](https://close.com) - Sales CRM with automation
-- [Pipedrive](https://www.pipedrive.com) - AI sales pipeline
+- [Pipedrive](https://www.aimiracle.ai/go/pipedrive/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI sales pipeline
 - [Copy.ai](https://www.copy.ai) - AI content automation
-- [Latenode](https://latenode.com) - Low-code AI workflow builder
+- [Latenode](https://www.aimiracle.ai/go/latenode/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Low-code AI workflow builder
 - [OpenAI Agent Builder](https://platform.openai.com) - Custom AI agents
 
 ---
@@ -64,15 +66,15 @@ The best AI workflow automation tools are designed to simplify tasks, reduce man
 
 Many users search for Character AI alternatives after spending some time on the platform. Character AI became popular because it allows conversations with fictional personalities, historical figures, and custom characters. However, strict moderation, limited memory, and repetitive replies can interrupt longer conversations. Some users look for platforms that allow more creative freedom in roleplay — others want AI characters that remember context and maintain longer, more coherent interactions. Browse the full list of [Character AI alternatives](https://www.aimiracle.ai/ai-collections/character-ai-alternatives/) for roleplay and companion chat.
 
-- [CrushOn.ai](https://crushon.ai) - Unfiltered AI companion chat
-- [Candy.ai](https://candy.ai) - Personalized AI companion
-- [Muah.ai](https://muah.ai) - AI companion with voice and photos
-- [DreamGF.ai](https://dreamgf.ai) - Create your ideal AI girlfriend
-- [Kupid.ai](https://kupid.ai) - AI companions
-- [GPTGirlfriend.online](https://gptgirlfriend.online) - AI girlfriend chatbot
-- [SpicyChat.ai](https://spicychat.ai) - Custom AI persona chat
-- [OurDream.ai](https://ourdream.ai) - AI companion and roleplay
-- [Promptchan.ai](https://promptchan.ai) - AI image and character generation
+- [CrushOn.ai](https://www.aimiracle.ai/go/crushon/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Unfiltered AI companion chat
+- [Candy.ai](https://www.aimiracle.ai/go/candy/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Personalized AI companion
+- [Muah.ai](https://www.aimiracle.ai/go/muahai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI companion with voice and photos
+- [DreamGF.ai](https://www.aimiracle.ai/go/dreamgf/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Create your ideal AI girlfriend
+- [Kupid.ai](https://www.aimiracle.ai/go/kupid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI companions
+- [GPTGirlfriend.online](https://www.aimiracle.ai/go/gptgirlfriend/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI girlfriend chatbot
+- [SpicyChat.ai](https://www.aimiracle.ai/go/spicychat/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Custom AI persona chat
+- [OurDream.ai](https://www.aimiracle.ai/go/ourdream/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI companion and roleplay
+- [Promptchan.ai](https://www.aimiracle.ai/go/promptchan/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI image and character generation
 
 ---
 
@@ -99,17 +101,17 @@ AI tools are rapidly changing how music is created. In the past, producing a son
 
 Modern NSFW AI roleplay focuses on deep memory, no filter interaction, and private experiences. Many mainstream platforms use restrictive filters that break immersion and limit character depth. Users seeking creative freedom now choose unfiltered environments powered by advanced LLM technology and long-term context retention. These top-tier tools support custom personas, real-time image generation, and voice interaction — with privacy through anonymous chat and secure encryption. Find verified platforms in the full [NSFW AI roleplay no filter](https://www.aimiracle.ai/ai-collections/nsfw-ai-roleplay-no-filter/) collection.
 
-- [Promptchan](https://promptchan.ai) - Uncensored AI platform
+- [Promptchan](https://www.aimiracle.ai/go/promptchan/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Uncensored AI platform
 - [JanitorAI](https://janitorai.com) - Custom AI character chat
-- [DreamGF.ai](https://dreamgf.ai) - AI girlfriend platform
-- [GPTGirlfriend.online](https://gptgirlfriend.online) - AI girlfriend
+- [DreamGF.ai](https://www.aimiracle.ai/go/dreamgf/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI girlfriend platform
+- [GPTGirlfriend.online](https://www.aimiracle.ai/go/gptgirlfriend/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI girlfriend
 - [YumeAI](https://yumeai.io) - Anime-style AI companion
-- [Candy AI](https://candy.ai) - Personalized AI companion
-- [Muah AI](https://muah.ai) - Voice and photo AI companion
-- [SpicyChat.ai](https://spicychat.ai) - Spicy AI chat platform
-- [OurDream.ai](https://ourdream.ai) - AI companion scenarios
-- [CrushOn.AI](https://crushon.ai) - Unfiltered AI chat
-- [GoLoveAI](https://golove.ai) - AI romance platform
+- [Candy AI](https://www.aimiracle.ai/go/candy/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Personalized AI companion
+- [Muah AI](https://www.aimiracle.ai/go/muahai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Voice and photo AI companion
+- [SpicyChat.ai](https://www.aimiracle.ai/go/spicychat/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Spicy AI chat platform
+- [OurDream.ai](https://www.aimiracle.ai/go/ourdream/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI companion scenarios
+- [CrushOn.AI](https://www.aimiracle.ai/go/crushon/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Unfiltered AI chat
+- [GoLoveAI](https://www.aimiracle.ai/go/goloveai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI romance platform
 - [FantasyGF](https://fantasygf.ai) - AI fantasy girlfriend
 - [JOI](https://joi.chat) - Intimate AI companion
 
@@ -135,10 +137,10 @@ Coding has always required focus, patience, and clear thinking — but the tools
 - [Cursor](https://www.cursor.com) - AI-first code editor
 - [Windsurf](https://codeium.com/windsurf) - Agentic AI coding IDE
 - [Tabnine](https://www.tabnine.com) - AI code completion
-- [Replit](https://replit.com) - AI collaborative coding
+- [Replit](https://www.aimiracle.ai/go/replit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI collaborative coding
 - [Google Antigravity](https://idx.dev) - AI coding by Google
 - [Claude Code](https://www.anthropic.com) - Agentic CLI coding tool
-- [Lovable](https://lovable.dev) - AI full-stack app builder
+- [Lovable](https://www.aimiracle.ai/go/lovable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI full-stack app builder
 
 ---
 
@@ -151,14 +153,14 @@ The best AI chatbot for roleplay tools have moved beyond simple chat responses �
 - [NovelAI](https://novelai.net) - AI writing and storytelling
 - [Kindroid AI](https://kindroid.ai) - Personalized AI companion
 - [Joyland.ai](https://joyland.ai) - AI character chat
-- [Candy AI](https://candy.ai) - AI companion platform
-- [Muah AI](https://muah.ai) - Voice and photo AI companion
-- [SpicyChat](https://spicychat.ai) - Uncensored AI character chats
-- [OurDream.ai](https://ourdream.ai) - AI companion chat
-- [CrushOn.AI](https://crushon.ai) - Unfiltered AI roleplay
+- [Candy AI](https://www.aimiracle.ai/go/candy/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI companion platform
+- [Muah AI](https://www.aimiracle.ai/go/muahai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Voice and photo AI companion
+- [SpicyChat](https://www.aimiracle.ai/go/spicychat/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Uncensored AI character chats
+- [OurDream.ai](https://www.aimiracle.ai/go/ourdream/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI companion chat
+- [CrushOn.AI](https://www.aimiracle.ai/go/crushon/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Unfiltered AI roleplay
 - [AI Dungeon](https://aidungeon.io) - AI text adventure
 - [Talkie AI](https://www.talkie-ai.com) - Voice AI character chat
-- [Foxy.ai](https://foxy.ai) - AI companion
+- [Foxy.ai](https://www.aimiracle.ai/go/foxyai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI companion
 - [JOI AI](https://joi.chat) - Intimate AI chat
 
 ---
@@ -168,14 +170,14 @@ The best AI chatbot for roleplay tools have moved beyond simple chat responses �
 AI landscape design is changing how people plan, visualize, and build outdoor spaces. Instead of relying on sketches and guesswork, designers, homeowners, and professionals now use AI to explore layouts and materials faster — testing planting ideas with more clarity and confidence. Today, AI landscape design tools combine creativity with data, generating concepts from photos, suggesting smarter layouts, and adapting designs to real-world conditions. Explore the full guide to [AI landscape design tools](https://www.aimiracle.ai/ai-collections/ai-landscape-design/) for outdoor spaces.
 
 - [Neighborbrite](https://neighborbrite.com) - AI landscaping tool
-- [HomeDesigns.ai](https://homedesigns.ai) - AI home and outdoor design
-- [REimagineHome](https://reimaginehome.ai) - AI landscape redesign
-- [PromeAI](https://www.promeai.pro) - AI rendering
+- [HomeDesigns.ai](https://www.aimiracle.ai/go/homedesignai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI home and outdoor design
+- [REimagineHome](https://www.aimiracle.ai/go/reimaginehome/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI landscape redesign
+- [PromeAI](https://www.aimiracle.ai/go/promeai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI rendering
 - [Rescape AI](https://rescape.ai) - AI landscape planning
 - [DreamzAR](https://dreamzar.com) - AR garden design
-- [Planner 5D](https://planner5d.com) - AI floor plan designer
-- [Paintit.ai](https://paintit.ai) - AI landscape rendering
-- [D5 Render](https://www.d5render.com) - Real-time AI rendering
+- [Planner 5D](https://www.aimiracle.ai/go/planner5d/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI floor plan designer
+- [Paintit.ai](https://www.aimiracle.ai/go/paintit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI landscape rendering
+- [D5 Render](https://www.aimiracle.ai/go/d5render/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Real-time AI rendering
 - [iScape](https://www.iScape.me) - AR landscape design
 
 ---
@@ -184,10 +186,10 @@ AI landscape design is changing how people plan, visualize, and build outdoor sp
 
 AI tools for real estate agents are transforming how professionals market, analyze, and sell properties. These intelligent platforms support essential tasks such as market research, pricing optimization, listing creation, and client communication — helping agents make smarter decisions and focus more on building relationships. Today's competitive real estate landscape demands speed and precision, and automation turns complex data into clear, actionable insights. Find the complete toolkit of [AI tools for real estate agents](https://www.aimiracle.ai/ai-collections/ai-tools-for-real-estate-agents-the-complete-ai-toolkit-for-modern-realtors/) for modern realtors.
 
-- [Homesage](https://homesage.ai) - AI property analytics
+- [Homesage](https://www.aimiracle.ai/go/homesage/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI property analytics
 - [Collov](https://collov.ai) - AI virtual staging
 - [Real Geeks](https://www.realgeeks.com) - AI lead generation
-- [ReimagineHome](https://reimaginehome.ai) - AI staging visualization
+- [ReimagineHome](https://www.aimiracle.ai/go/reimaginehome/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI staging visualization
 - [PhotoAIVideo](https://photoaivideo.com) - AI property photo enhancement
 - [Ylopo](https://www.ylopo.com) - AI real estate marketing
 - [Fello](https://www.fello.ai) - AI seller lead nurturing
@@ -201,24 +203,24 @@ AI tools for real estate agents are transforming how professionals market, analy
 
 Creating videos doesn't have to be time-consuming or complicated anymore. With the right AI video generation platform, you can transform text, blog posts, or even short ideas into fully edited videos — all in just a few clicks. Whether you're creating content for YouTube, promoting a product on social media, or delivering an engaging explainer, these platforms let you do it faster and smarter with no editing skills required. See the full comparison of [best AI video generators](https://www.aimiracle.ai/ai-collections/ai-video-generation-platform-overview-2025/) for 2025.
 
-- [HeyGen](https://www.heygen.com) - AI avatar video generation
+- [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI avatar video generation
 - [Midjourney Video](https://www.midjourney.com) - AI video generation
-- [DeeVid AI](https://deevid.ai) - AI video creation
+- [DeeVid AI](https://www.aimiracle.ai/go/deevid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI video creation
 - [Veo by Google DeepMind](https://deepmind.google/technologies/veo/) - Google video AI
 - [Adobe Firefly](https://firefly.adobe.com) - AI video by Adobe
-- [Fliki](https://fliki.ai) - Text-to-video with AI voices
-- [Kling AI](https://klingai.com) - High-quality AI video
-- [Pollo AI](https://pollo.ai) - AI video generation
-- [Revid.ai](https://www.revid.ai) - AI short-form video
+- [Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Text-to-video with AI voices
+- [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - High-quality AI video
+- [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI video generation
+- [Revid.ai](https://www.aimiracle.ai/go/revid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI short-form video
 - [Wondershare Filmora](https://filmora.wondershare.com) - AI video editing
-- [StoryShort AI](https://storyshort.ai) - AI short video creator
-- [Opus Clip](https://www.opus.pro) - AI video repurposing
+- [StoryShort AI](https://www.aimiracle.ai/go/storyshort/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI short video creator
+- [Opus Clip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI video repurposing
 - [Prequel](https://prequel.app) - AI video effects
 - [Pictory](https://pictory.ai) - AI video from scripts
-- [Synthesia](https://www.synthesia.io) - AI avatar video
-- [InVideo](https://invideo.io) - AI video maker
+- [Synthesia](https://www.aimiracle.ai/go/synthesia/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI avatar video
+- [InVideo](https://www.aimiracle.ai/go/invideo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI video maker
 - [Higgsfield](https://higgsfield.ai) - AI cinematic video
-- [PixVerse AI](https://pixverse.ai) - High-quality AI video
+- [PixVerse AI](https://www.aimiracle.ai/go/pixverse/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - High-quality AI video
 - [Artlist](https://artlist.io) - AI music and video assets
 - [Envato AI](https://elements.envato.com) - AI creative assets
 
@@ -228,16 +230,16 @@ Creating videos doesn't have to be time-consuming or complicated anymore. With t
 
 AI for architecture design is changing how we imagine, plan, and build creative spaces — smart tools now support everything from intelligent interior planning to full-scale building visions. From AI for interior design to AI 3D from 2D solutions, technology is transforming architectural workflows, helping professionals design smarter, more efficient, and visually striking environments. Creativity meets construction as human vision blends with machine precision. Explore the full list of [AI for architecture design](https://www.aimiracle.ai/ai-collections/ai-for-architecture-design/) tools for 2026.
 
-- [Archsynth](https://www.archsynth.com) - AI architectural concepts
-- [Redraw](https://redraw.ai) - AI redesign for spaces
+- [Archsynth](https://www.aimiracle.ai/go/archsynth/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI architectural concepts
+- [Redraw](https://www.aimiracle.ai/go/redraw/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI redesign for spaces
 - [Qbiq](https://qbiq.ai) - AI floor plan generation
-- [ReRender](https://rerender.ai) - AI architectural rendering
+- [ReRender](https://www.aimiracle.ai/go/rerenderai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI architectural rendering
 - [ArkDesign.ai](https://arkdesign.ai) - AI architecture assistant
 - [Maket.ai](https://www.maket.ai) - Generative AI for floor plans
 - [ARCHITEChTURES](https://architechtures.com) - AI building design
-- [HomeDesigns.AI](https://homedesigns.ai) - AI home design concepts
+- [HomeDesigns.AI](https://www.aimiracle.ai/go/homedesignai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI home design concepts
 - [FacadeTool](https://facadetool.com) - AI facade design
-- [D5 Render](https://www.d5render.com) - Real-time AI rendering
+- [D5 Render](https://www.aimiracle.ai/go/d5render/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Real-time AI rendering
 
 ---
 
@@ -247,7 +249,7 @@ In 2025, creativity no longer stops at words — it starts with them. An AI imag
 
 - [Leonardo AI](https://leonardo.ai) - AI image generation
 - [ImagineArt](https://www.imagine.art) - AI art generation
-- [ArtSpace.ai](https://artspace.ai) - AI digital art platform
+- [ArtSpace.ai](https://www.aimiracle.ai/go/artspace/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI digital art platform
 - [PhotoAI](https://photoai.com) - AI photo generation
 - [OpenArt AI](https://openart.ai) - Community AI art generation
 - [Dzine AI](https://www.dzine.ai) - AI design and image tool
@@ -265,21 +267,21 @@ In 2025, creativity no longer stops at words — it starts with them. An AI imag
 
 A free AI video generator makes it possible to create videos without expensive software or advanced editing skills — removing the usual barriers to professional video creation. These platforms save time, boost creativity, and make video production accessible to everyone. Whether you're a business owner, content creator, or just starting out, free AI video tools open the door to effortless storytelling. Check out the full list of [best free AI video generators](https://www.aimiracle.ai/ai-collections/best-free-ai-video-generators/) for 2026.
 
-- [HeyGen](https://www.heygen.com) - Free AI avatar videos
-- [PixVerse AI](https://pixverse.ai) - Free high-quality AI video
-- [Fliki](https://fliki.ai) - Free text-to-video
+- [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Free AI avatar videos
+- [PixVerse AI](https://www.aimiracle.ai/go/pixverse/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Free high-quality AI video
+- [Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Free text-to-video
 - [Adobe Firefly](https://firefly.adobe.com) - Free AI video by Adobe
-- [Kling AI](https://klingai.com) - Free cinematic AI video
+- [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Free cinematic AI video
 - [Higgsfield](https://higgsfield.ai) - Free AI video
-- [Pollo AI](https://pollo.ai) - Free AI video generation
-- [Revid.ai](https://www.revid.ai) - Free AI short-form video
+- [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Free AI video generation
+- [Revid.ai](https://www.aimiracle.ai/go/revid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Free AI short-form video
 - [Wondershare Filmora](https://filmora.wondershare.com) - Free AI video editing
-- [StoryShort AI](https://storyshort.ai) - Free short video creation
-- [Opus Clip](https://www.opus.pro) - Free AI video clipping
+- [StoryShort AI](https://www.aimiracle.ai/go/storyshort/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Free short video creation
+- [Opus Clip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Free AI video clipping
 - [Prequel](https://prequel.app) - Free AI video effects
 - [Pictory](https://pictory.ai) - Free AI video from text
-- [Synthesia](https://www.synthesia.io) - Free demo AI avatar videos
-- [InVideo](https://invideo.io) - Free AI video maker
+- [Synthesia](https://www.aimiracle.ai/go/synthesia/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Free demo AI avatar videos
+- [InVideo](https://www.aimiracle.ai/go/invideo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Free AI video maker
 
 ---
 
@@ -301,7 +303,7 @@ Writing no longer has to feel overwhelming. The best AI writing tools in 2025 ma
 - [Claude](https://claude.ai) - Anthropic AI assistant
 - [Perplexity AI](https://www.perplexity.ai) - AI search and writing
 - [Wordtune](https://www.wordtune.com) - AI writing companion
-- [Uncensored AI](https://uncensored-ai.com) - Unrestricted AI writing
+- [Uncensored AI](https://www.aimiracle.ai/go/uncensored/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Unrestricted AI writing
 
 ---
 
@@ -317,8 +319,8 @@ AI coding tools are transforming how developers write, debug, and ship code. Wha
 - [Claude](https://claude.ai) - Anthropic AI for coding
 - [Cursor](https://www.cursor.com) - AI-first code editor
 - [ChatGPT](https://chat.openai.com) - AI for coding tasks
-- [Lovable](https://lovable.dev) - AI full-stack app builder
-- [Replit](https://replit.com) - AI browser-based coding
+- [Lovable](https://www.aimiracle.ai/go/lovable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI full-stack app builder
+- [Replit](https://www.aimiracle.ai/go/replit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI browser-based coding
 - [Cline](https://github.com/cline/cline) - Open-source AI coding agent
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AWS AI code suggestions
 - [Blackbox AI](https://www.blackbox.ai) - AI coding with code search
@@ -338,10 +340,10 @@ AI avatar generators have never been more powerful, accessible, and creative. Fr
 - [Remini](https://remini.ai) - AI photo and avatar enhancement
 - [Fotor](https://www.fotor.com) - AI avatar and photo editing
 - [Photoleap](https://www.lightricks.com/photoleap) - AI avatar and photo editor
-- [HeyGen](https://www.heygen.com) - Photorealistic AI video avatars
+- [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Photorealistic AI video avatars
 - [Media.io](https://www.media.io) - AI avatar and media platform
 - [Pictory](https://pictory.ai) - AI avatar video creation
-- [Synthesia](https://www.synthesia.io) - Enterprise AI video avatars
+- [Synthesia](https://www.aimiracle.ai/go/synthesia/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Enterprise AI video avatars
 - [D-ID](https://www.d-id.com) - Talking avatar AI video
 - [Elai.io](https://elai.io) - AI video avatar for business
 
@@ -358,7 +360,7 @@ Running a small business today means constantly balancing growth with limited ti
 - [Descript](https://www.descript.com) - AI audio and video editing
 - [ProWritingAid](https://prowritingaid.com) - AI grammar checker
 - [Notion](https://www.notion.so) - AI workspace and project management
-- [Synthesia](https://www.synthesia.io) - AI video creation
+- [Synthesia](https://www.aimiracle.ai/go/synthesia/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI video creation
 - [Murf](https://murf.ai) - AI voice generator
 - [Canva](https://www.canva.com) - AI graphic design platform
 - [Zapier](https://zapier.com) - AI workflow automation
