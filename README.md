@@ -336,6 +336,8 @@ Writing no longer has to feel overwhelming. The best AI writing tools in 2025 ma
 - [Uncensored AI](https://www.aimiracle.ai/go/uncensored/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Unrestricted AI writing
 
 ---
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin for SEO content optimization, meta tags, schema markup, and Google Ads management.
+
 
 ## AI Coding Tools
 
