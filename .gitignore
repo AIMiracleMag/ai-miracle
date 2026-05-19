@@ -1,0 +1,16 @@
+# Build artifacts (regenerated from README.md on each build)
+ai-miracle-collection*.pdf
+build/images/
+build/README.processed.md
+
+# Eisvogel template source archive — committed `eisvogel.latex` is enough
+build/eisvogel.zip
+build/Eisvogel-*/
+build/template/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/

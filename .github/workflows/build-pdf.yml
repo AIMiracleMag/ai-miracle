@@ -1,0 +1,53 @@
+name: Build & Release PDF
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'build/**'
+      - '.github/workflows/build-pdf.yml'
+  workflow_dispatch:  # allow manual trigger from Actions tab
+
+permissions:
+  contents: write  # required to create GitHub Release
+
+concurrency:
+  group: build-pdf
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Compute version (YYYY-MM)
+        id: version
+        run: echo "version=$(date +%Y-%m)" >> "$GITHUB_OUTPUT"
+
+      - name: Build PDF
+        env:
+          PDF_VERSION: ${{ steps.version.outputs.version }}
+        run: bash build/build-pdf.sh
+
+      - name: Verify output
+        run: |
+          ls -lh ai-miracle-collection.pdf
+          file ai-miracle-collection.pdf
+
+      - name: Create or update GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.version.outputs.version }}
+          name: "AI Miracle Tools Collection — ${{ steps.version.outputs.version }}"
+          body: |
+            Curated list of best AI tools across 18 categories, exported as PDF.
+
+            Built automatically from `README.md` on `${{ github.sha }}`.
+
+            Tracking: links use `utm_source=ebook&utm_medium=pdf&utm_content=v${{ steps.version.outputs.version }}`.
+          files: ai-miracle-collection.pdf
+          fail_on_unmatched_files: true
+          make_latest: true
