@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-19-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-22-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -30,6 +30,7 @@
 - [AI Humanizer Tools](#ai-humanizer-tools)
 - [AI Smart TVs](#ai-smart-tvs)
 - [AI Smart Glasses](#ai-smart-glasses)
+- [GPU for AI](#gpu-for-ai)
 
 ---
 
@@ -453,6 +454,21 @@ AI smart glasses have quietly become the hottest gadget category of 2026. Meta s
 - [RayNeo X3 Pro](https://www.aimiracle.ai/ai-hardware-review/rayneo-x3-pro-review/) - Full-color AR meets AI
 - [Halliday](https://www.aimiracle.ai/ai-hardware-review/halliday-glasses-review/) - Proactive AI in 28 grams
 - [Xiaomi AI Glasses](https://www.aimiracle.ai/ai-hardware-review/xiaomi-ai-glasses-review/) - China's answer to Ray-Ban Meta
+
+---
+
+## GPU for AI
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/best-gpu-for-ai.jpg" width="800" alt="GPU for AI">
+
+Hunting for the best GPU for AI in 2026 comes down to one number first: VRAM — local LLMs, Stable Diffusion and fine-tuning all live or die by how much model fits in memory, then bandwidth decides how fast the tokens flow. The market is messy, with a DRAM shortage keeping street prices above MSRP, last-generation cards turning into value heroes, and AMD and Intel finally offering credible AI options. See the full [best GPU for AI](https://www.aimiracle.ai/ai-collections/best-gpu-for-ai/) collection.
+
+- [NVIDIA RTX 5090](https://www.aimiracle.ai/ai-hardware-review/rtx-5090-ai-review/) - Best overall, 32GB GDDR7
+- [NVIDIA RTX 3090 (used)](https://www.aimiracle.ai/ai-hardware-review/rtx-3090-ai-review/) - VRAM per dollar king, 24GB
+- [NVIDIA RTX 5070 Ti](https://www.aimiracle.ai/ai-hardware-review/rtx-5070-ti-ai-review/) - Best for AI image generation, 16GB
+- [NVIDIA RTX 5060 Ti 16GB](https://www.aimiracle.ai/ai-hardware-review/rtx-5060-ti-ai-review/) - Best budget CUDA pick, 16GB
+- [AMD Radeon AI PRO R9700](https://www.aimiracle.ai/ai-hardware-review/amd-radeon-ai-pro-r9700-review/) - 32GB VRAM for $1,299
+- [Intel Arc B580](https://www.aimiracle.ai/ai-hardware-review/intel-arc-b580-ai-review/) - Cheapest entry point, 12GB at $249
 
 ---
 
