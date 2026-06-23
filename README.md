@@ -180,6 +180,7 @@ The best AI chatbot for roleplay tools have moved beyond simple chat responses â
 - [OurDream.ai](https://www.aimiracle.ai/go/ourdream/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI companion chat
 - [CrushOn.AI](https://www.aimiracle.ai/go/crushon/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Unfiltered AI roleplay
 - [AI Dungeon](https://aidungeon.io) - AI text adventure
+- [Auferet](https://auferet.com) - AI game master for solo text adventures and tabletop RPGs with long-term memory
 - [Talkie AI](https://www.talkie-ai.com) - Voice AI character chat
 - [Foxy.ai](https://www.aimiracle.ai/go/foxyai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI companion
 - [JOI AI](https://joi.chat) - Intimate AI chat
