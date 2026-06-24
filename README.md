@@ -401,6 +401,7 @@ Running a small business today means constantly balancing growth with limited ti
 - [Descript](https://www.descript.com) - AI audio and video editing
 - [ProWritingAid](https://prowritingaid.com) - AI grammar checker
 - [Notion](https://www.notion.so) - AI workspace and project management
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app for retrieving focused context from files, webpages, recordings, emails, messages, images, and notes
 - [Synthesia](https://www.aimiracle.ai/go/synthesia/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI video creation
 - [Murf](https://murf.ai) - AI voice generator
 - [Canva](https://www.canva.com) - AI graphic design platform
