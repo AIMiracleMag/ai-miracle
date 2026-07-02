@@ -31,7 +31,15 @@ grep -oE 'src="[^"]+"' "$REPO_ROOT/$SOURCE_MD" | sed -E 's/src="([^"]+)"/\1/' | 
     target="$IMAGES_DIR/$filename"
     if [ ! -f "$target" ]; then
         echo "    fetching $filename"
-        curl -sL --max-time 30 "$url" -o "$target" || echo "    !! failed: $url"
+        curl -sL --max-time 30 "$url" -o "$target" || echo "    !! download failed: $url"
+    fi
+    # Validate: drop anything that isn't a real image (e.g. a 404 page saved as .jpg)
+    if [ -f "$target" ]; then
+        mt="$(file -b --mime-type "$target" 2>/dev/null || echo unknown)"
+        case "$mt" in
+            image/*) ;;
+            *) echo "    !! not an image ($mt), removing $filename"; rm -f "$target" ;;
+        esac
     fi
 done
 

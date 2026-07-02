@@ -9,12 +9,32 @@ Steps:
      converting them to pandoc image syntax and honouring an explicit width:
        - width="NN%"  -> { width=NN% }   (used for smaller inline examples)
        - width="800" / no width -> { width=100% }  (full-width featured images)
+     Images whose local file is missing or not a valid image (e.g. a 404 page
+     saved as .jpg) are dropped so one dead link can't crash the whole build.
   3. Swap the GitHub README UTM tag for a PDF/ebook UTM so PDF clicks track
      separately from README clicks.
 """
 import re
 import sys
 import os
+
+IMAGES_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "images")
+_MAGIC = (b"\xff\xd8\xff", b"\x89PNG\r\n\x1a\n", b"GIF87a", b"GIF89a")
+
+
+def _valid_image(path):
+    try:
+        if os.path.getsize(path) < 256:
+            return False
+        with open(path, "rb") as f:
+            head = f.read(16)
+    except OSError:
+        return False
+    if head.startswith(_MAGIC):
+        return True
+    # WEBP: "RIFF" .... "WEBP"
+    return head[:4] == b"RIFF" and head[8:12] == b"WEBP"
+
 
 def main():
     src, out, version = sys.argv[1], sys.argv[2], sys.argv[3]
@@ -25,7 +45,7 @@ def main():
     text = re.sub(r'^!\[[^\]]*\]\(https://img\.shields\.io[^)]*\)\s*$', '',
                   text, flags=re.MULTILINE)
 
-    # 2. <img ...> -> local pandoc image with width
+    # 2. <img ...> -> local pandoc image with width (drop if file invalid/missing)
     def img_repl(m):
         tag = m.group(0)
         src_m = re.search(r'src="([^"]+)"', tag)
@@ -35,6 +55,9 @@ def main():
         if not url.startswith("http"):
             return tag  # already local
         base = os.path.basename(url.split("?")[0])
+        if not _valid_image(os.path.join(IMAGES_DIR, base)):
+            print("    !! skipping missing/invalid image: %s" % base)
+            return ""
         alt_m = re.search(r'alt="([^"]*)"', tag)
         alt = alt_m.group(1) if alt_m else ""
         w_m = re.search(r'width="([^"]+)"', tag)
