@@ -1,0 +1,33 @@
+---
+title: "AI Image Prompt Pack"
+subtitle: "Curated by AIMiracle MAG — 36 copy-paste prompts to turn your selfies into viral AI art"
+author: "AIMiracle MAG"
+date: "2026"
+titlepage: true
+titlepage-color: "0A0A0A"
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "6D00C0"
+titlepage-rule-height: 4
+toc-own-page: true
+toc-title: "Contents"
+colorlinks: true
+linkcolor: violet
+urlcolor: violet
+toccolor: black
+listings-no-page-break: true
+disable-header-and-footer: false
+header-left: "AI Miracle"
+header-right: "aimiracle.ai"
+footer-left: "AI Image Prompt Pack"
+footer-center: ""
+footer-right: "\\thepage"
+book: false
+classoption: ["oneside"]
+geometry:
+  - top=25mm
+  - bottom=25mm
+  - left=22mm
+  - right=22mm
+fontsize: 11pt
+linestretch: 1.25
+---
