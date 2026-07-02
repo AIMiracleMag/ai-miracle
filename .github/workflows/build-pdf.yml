@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - 'README.md'
+      - 'courses.md'
+      - 'prompts.md'
       - 'build/**'
       - '.github/workflows/build-pdf.yml'
   workflow_dispatch:  # allow manual trigger from Actions tab
@@ -27,27 +29,42 @@ jobs:
         id: version
         run: echo "version=$(date +%Y-%m)" >> "$GITHUB_OUTPUT"
 
-      - name: Build PDF
+      - name: Build collection PDF
         env:
           PDF_VERSION: ${{ steps.version.outputs.version }}
-        run: bash build/build-pdf.sh
+        run: bash build/build-pdf.sh README.md build/metadata.yml ai-miracle-collection.pdf
+
+      - name: Build courses PDF
+        env:
+          PDF_VERSION: ${{ steps.version.outputs.version }}
+        run: bash build/build-pdf.sh courses.md build/metadata-courses.yml ai-miracle-courses.pdf
+
+      - name: Build prompts PDF
+        env:
+          PDF_VERSION: ${{ steps.version.outputs.version }}
+        run: bash build/build-pdf.sh prompts.md build/metadata-prompts.yml ai-miracle-prompts.pdf
 
       - name: Verify output
         run: |
-          ls -lh ai-miracle-collection.pdf
-          file ai-miracle-collection.pdf
+          ls -lh ai-miracle-collection.pdf ai-miracle-courses.pdf ai-miracle-prompts.pdf
+          file ai-miracle-collection.pdf ai-miracle-courses.pdf ai-miracle-prompts.pdf
 
       - name: Create or update GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ steps.version.outputs.version }}
-          name: "AI Miracle Tools Collection — ${{ steps.version.outputs.version }}"
+          name: "AI Miracle PDFs — ${{ steps.version.outputs.version }}"
           body: |
-            Curated list of best AI tools across 18 categories, exported as PDF.
+            AIMiracle MAG resources, exported as PDF and built automatically from Markdown on `${{ github.sha }}`.
 
-            Built automatically from `README.md` on `${{ github.sha }}`.
+            - `ai-miracle-collection.pdf` — curated AI tool collections
+            - `ai-miracle-courses.pdf` — the AI courses guide
+            - `ai-miracle-prompts.pdf` — the AI image prompt pack
 
-            Tracking: links use `utm_source=ebook&utm_medium=pdf&utm_content=v${{ steps.version.outputs.version }}`.
-          files: ai-miracle-collection.pdf
+            Tracking: PDF links use `utm_source=ebook, utm_medium=pdf, utm_content=v${{ steps.version.outputs.version }}`.
+          files: |
+            ai-miracle-collection.pdf
+            ai-miracle-courses.pdf
+            ai-miracle-prompts.pdf
           fail_on_unmatched_files: true
           make_latest: true
