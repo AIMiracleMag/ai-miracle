@@ -583,6 +583,76 @@ A peaceful village at sunrise surrounded by misty mountains, glowing rooftops, a
 
 ---
 
+## 13. AI Polaroid With Your Idol
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/pol_featured-scaled.jpg" width="800" alt="AI Polaroid With Your Idol">
+
+*Pose next to any star as if you snapped a real Polaroid together - upload a selfie and your idol’s photo, then let the AI blend both faces into one nostalgic, flash-lit frame.*
+
+**Works with:** ChatGPT, Google Gemini
+
+### Polaroid with your idol
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/uni_elon-869x1024.png" width="46%" alt="Polaroid with your idol example">
+
+```
+Take a picture with a Polaroid camera.
+
+The photo should look like a normal photo, without any clear subjects or props.
+
+The photo should have a slight blur effect and a consistent light source, such as a flash from a dark room, spread throughout the photo.
+
+Do not change the faces.
+
+Replace the background behind the two people with a white curtain.
+
+With the guy being close to me like a couple.
+
+Do not change the angle of our faces.
+```
+
+### Polaroid on a neon rooftop
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/uni_alicia-869x1024.png" width="46%" alt="Polaroid on a neon rooftop example">
+
+```
+A Polaroid picture taken on a rooftop at night.
+
+Behind the couple, the city skyline is faintly visible with blurred neon lights and bokeh street lamps.
+
+The flash highlights the couple while the background stays grainy and dark, giving it an imperfect charm.
+
+The couple wears matching bomber jackets with subtle graphic prints.
+
+The atmosphere feels adventurous, late-night, and spontaneous.
+```
+
+### Polaroid with a celebrity
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/uni_bear-869x1024.png" width="46%" alt="Polaroid with a celebrity example">
+
+```
+Take a photo taken with a Polaroid camera.
+
+The photo should look like an ordinary photograph, without an explicit subject or property.
+
+The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo.
+
+Do not change the face.
+
+Change the background behind those two people with white curtains.
+```
+
+**Tips**
+
+- Start with a sharp, well-lit selfie so the AI can lock both faces and keep them consistent.
+- Always add a line like “do not change our faces” to stop the AI from reshaping you or your idol.
+- Keep the classic Polaroid cues: a slight blur, a single flash light source, and a plain white curtain background.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/ai-polaroid-prompt-with-idol/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
 ## Keep creating
 
 Browse more copy-paste trends in the [AIMiracle How-To hub](https://www.aimiracle.ai/how-to/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), find the right tool in the [AI image generators collection](https://www.aimiracle.ai/ai-collections/ai-image-generator-from-text/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), then bring your art to life with the [AI video generators collection](https://www.aimiracle.ai/ai-collections/best-free-ai-video-generators/?utm_source=github&utm_medium=readme&utm_campaign=backlinks).
