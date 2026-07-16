@@ -653,6 +653,240 @@ Change the background behind those two people with white curtains.
 
 ---
 
+## 14. Pixar 3D Character
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/pixar-ai-prompt.jpg" width="800" alt="Pixar 3D Character">
+
+*Upload a selfie and let the AI rebuild you as a glossy, movie-quality Pixar-style character with big, friendly eyes.*
+
+**Works with:** ChatGPT, Google Gemini
+
+### Turn yourself into a 3D Pixar character
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/pixar-ai-prompt-3d-character-765x1024.jpg" width="46%" alt="Turn yourself into a 3D Pixar character example">
+
+```
+Convert this image into a 3D Pixar-style character with smooth, polished rendering and soft cinematic lighting typical of Pixar films.
+
+Keep my face, hairstyle, and outfit exactly the same, but give me slightly exaggerated, expressive features and big, friendly eyes.
+
+Use a clean, colorful background and high-detail, movie-quality texture. Do not change my face.
+```
+
+### Star in your own Disney-Pixar movie scene
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/pixar-ai-prompt-movie-scene-765x1024.jpg" width="46%" alt="Star in your own Disney-Pixar movie scene example">
+
+```
+Turn this photo into a Disney-Pixar 3D animated movie still.
+
+Place me as the main character in a warm, cinematic scene with soft rim lighting, vibrant colors, and a shallow depth of field.
+
+Preserve my facial features and expression so I still look like myself, just rendered as a lovable Pixar hero.
+```
+
+### Pixar-ify your couple or family photo
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/pixar-ai-prompt-couple-765x1024.jpg" width="46%" alt="Pixar-ify your couple or family photo example">
+
+```
+Recreate the people in this photo as 3D Pixar-style characters standing together.
+
+Keep each face, hairstyle, and outfit recognizable, add expressive eyes and gentle smiles, and render everything with the smooth, glossy, high-detail finish of a modern Pixar film.
+
+Use soft studio lighting and a simple pastel background.
+```
+
+### Bring your Pixar photo to life (video prompt)
+
+```
+Turn this Pixar image into a short animated clip.
+
+A warm, tender moment with subtle, natural motion, a gentle kiss and soft floating hearts.
+
+Cinematic Pixar-style lighting, gentle blinking and smiles, and keep every face consistent with the original.
+```
+
+**Tips**
+
+- Add the line "do not change my face" so the AI keeps your features and you stay recognizable.
+- Use soft, warm light and a simple or pastel background for that cozy Pixar glow.
+- Slightly bigger, brighter eyes and a gentle smile sell the animated 3D look.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/pixar-ai-prompt/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
+## 15. AI Dog Photo
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/ai-dog-photo-prompt.jpg" width="800" alt="AI Dog Photo">
+
+*Upload a clear photo of your dog and turn an ordinary snap into a cinematic pet portrait — from Pixar star to Greek god.*
+
+**Works with:** ChatGPT, Google Gemini
+
+### The Soulmate Dog Portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/ai-dog-soulmate-portrait-802x1024.jpg" width="46%" alt="The Soulmate Dog Portrait example">
+
+```
+Create an ultra-realistic extreme close-up portrait of half a human face and half your dog's face pressed closely together, perfectly centered and equally framed.
+
+One human eye and one pet eye should align in sharp focus, emphasizing emotional connection, realistic skin and fur textures, and intimate detail.
+
+Keep the composition tightly cropped with almost no visible background, warm natural colors, soft natural or studio lighting, and crisp 4K professional photography quality.
+```
+
+### The Pixar-Style Dog
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/pixar-style-dog-765x1024.jpg" width="46%" alt="The Pixar-Style Dog example">
+
+```
+Your dog designed as a Pixar animated character, expressive eyes, soft 3D rendering, colorful background, heartwarming Disney animation style.
+```
+
+### The Greek God Dog
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/greek-god-dog-765x1024.jpg" width="46%" alt="The Greek God Dog example">
+
+```
+Your dog portrayed as a Greek god on Mount Olympus, dramatic clouds, divine golden lighting, ultra realistic fantasy art.
+```
+
+**Tips**
+
+- Start with a sharp, well-lit, front-facing photo so the AI keeps your dog's features.
+- Add your dog's breed, color, or mood for a far more accurate result.
+- Run a prompt twice — sometimes the second try is the real winner.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/ai-dog-photo-prompt/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
+## 16. Y2K Camcorder Photo
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/y2k-ai-photo-prompt.jpg" width="800" alt="Y2K Camcorder Photo">
+
+*Turn a normal selfie into a grainy early-2000s camcorder memory, complete with timestamps, flash glare, and VHS distortion.*
+
+**Works with:** ChatGPT, Google Gemini
+
+### The Original Y2K Camcorder Prompt
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/y2k-camcorder-photo-prompt-765x1024.jpg" width="46%" alt="The Original Y2K Camcorder Prompt example">
+
+```
+Edit this photo like it was captured on a cheap 2003 camcorder.
+
+Add timestamp overlays, flash overexposure, low-resolution grain, slight VHS distortion, and cool-toned indoor lighting.
+```
+
+### Y2K Flash Party Snapshot
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/y2k-flash-party-photo-765x1024.jpg" width="46%" alt="Y2K Flash Party Snapshot example">
+
+```
+Turn this selfie into a Y2K party snapshot taken on a 2002 digital camera with the flash on.
+
+Add harsh direct flash, glossy skin, slight red-eye, a timestamp in the bottom corner, and a blurry low-resolution look.
+
+Put me in baggy jeans and a sparkly top inside a dim early-2000s house party.
+
+Keep my face exactly the same and do not change my features.
+```
+
+### Y2K Night Camcorder Frame
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/y2k-night-camcorder-photo-765x1024.jpg" width="46%" alt="Y2K Night Camcorder Frame example">
+
+```
+Make this photo look like a still frame from an old 2000s camcorder video filmed at night.
+
+Add a glowing timestamp, a REC indicator, VHS scan lines, motion blur, and warm streetlight glow.
+
+Keep my outfit casual and early-2000s, with grainy, slightly washed-out camcorder color.
+
+Do not change my face.
+```
+
+**Tips**
+
+- Start with a sharp, well-lit selfie and avoid heavy filters before you upload.
+- Keep the line "do not change my face" so your features stay recognizable.
+- Generate a few versions and pick the grainiest one for the most realistic look.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/y2k-ai-photo-prompt/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
+## 17. Plush Toy
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/aimiracle-plush-toy-ai-prompt-scaled.jpeg" width="800" alt="Plush Toy">
+
+*Upload a clear photo and let the AI rebuild you as a soft, stitched plushie while keeping your features recognizable.*
+
+**Works with:** ChatGPT, Google Gemini
+
+### The Classic Plush Toy
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/plush-toy-ai-prompt-classic-plush-765x1024.jpeg" width="46%" alt="The Classic Plush Toy example">
+
+```
+A soft, high-quality plush toy of the character in the image, with an oversized head, small body, and stubby limbs.
+
+Made of fuzzy fabric with visible stitching and embroidered facial features.
+
+The plush is shown sitting or standing against a neutral background.
+
+The expression is cute or expressive, and it wears simple clothes or iconic accessories if relevant.
+
+Lighting is soft and even, with a realistic, collectible plush look.
+
+Centered, full-body view. 1080x1080.
+```
+
+### The Cozy Crochet Doll
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/plush-toy-ai-prompt-crochet-doll-765x1024.jpeg" width="46%" alt="The Cozy Crochet Doll example">
+
+```
+A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands.
+
+The doll has a rounded shape, featuring the cute chibi image of the character in the uploaded image, with vivid contrasting colors and rich details.
+
+The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch.
+
+The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere.
+
+The overall image conveys a sense of exquisite craftsmanship and cherished warmth.
+```
+
+### The Plush Keychain
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/plush-toy-ai-prompt-keychain-765x1024.jpeg" width="46%" alt="The Plush Keychain example">
+
+```
+A small, soft plush toy keychain of the character in the image, hanging from a backpack zipper.
+
+The plush has an oversized head, tiny stubby limbs, and fuzzy fabric with visible stitching and embroidered facial features.
+
+A metal keyring clip is attached to the top of its head.
+
+The background is a slightly blurred everyday setting with soft natural light.
+
+Cute, collectible, photorealistic plush look. Centered close-up, 1080x1080.
+```
+
+**Tips**
+
+- Start with a sharp, well-lit, front-facing photo so the AI keeps your face and outfit.
+- Add the line "do not change my face" if your tool keeps drifting.
+- Ask for warm, even lighting and a neutral background for a softer, collectible look.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/plush-toy-ai-prompt/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
 ## Keep creating
 
 Browse more copy-paste trends in the [AIMiracle How-To hub](https://www.aimiracle.ai/how-to/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), find the right tool in the [AI image generators collection](https://www.aimiracle.ai/ai-collections/ai-image-generator-from-text/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), then bring your art to life with the [AI video generators collection](https://www.aimiracle.ai/ai-collections/best-free-ai-video-generators/?utm_source=github&utm_medium=readme&utm_campaign=backlinks).
