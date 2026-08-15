@@ -398,6 +398,7 @@ AI avatar generators have never been more powerful, accessible, and creative. Fr
 Running a small business today means constantly balancing growth with limited time and resources — wearing many hats from marketing to finance to operations. That's exactly where AI tools for small businesses can help. Whether you're looking to automate email campaigns, generate blog posts, analyze customer behavior, or improve your bottom line, these tools are powerful, practical, and built to help you get more done, faster. Find the complete guide to [top AI tools for small businesses](https://www.aimiracle.ai/ai-collections/top-ai-tools-small-businesses/) and start growing smarter.
 
 - [GetResponse](https://www.getresponse.com) - AI email marketing
+- [IdeaHunter](https://ideahunter.today/) - AI startup idea and market research
 - [Jasper](https://www.jasper.ai) - AI content creation
 - [Writesonic](https://writesonic.com) - AI writing for ads and blogs
 - [Frase](https://www.frase.io) - AI SEO content optimization
