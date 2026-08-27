@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-23-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-28-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -35,6 +35,8 @@
 - [Laptops for AI Development](#laptops-for-ai-development)
 - [AI Hairstyle Changer](#ai-hairstyle-changer)
 - [Agentic AI Frameworks](#agentic-ai-frameworks)
+- [Desktops for AI](#desktops-for-ai)
+- [AI 3D Model Generators](#ai-3d-model-generators)
 
 ---
 
@@ -523,15 +525,6 @@ An AI hairstyle changer does in seconds what used to take a brave salon visit: u
 
 ---
 
-## About AIMiracle MAG
-
-**[AIMiracle MAG](https://aimiracle.ai)** is an independent platform delivering daily AI news, tool discoveries, and practical tutorials. Our mission is to make AI accessible to everyone — from developers and designers to entrepreneurs and creators.
-
-- Website: [aimiracle.ai](https://aimiracle.ai)
-- Contact: aimiraclemag@gmail.com
-
-*Updated: June 2026*
-
 ## Agentic AI Frameworks
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/top-agentic-ai-frameworks-2026.jpg" width="800" alt="Agentic AI Frameworks">
@@ -547,3 +540,49 @@ The top agentic AI frameworks have graduated from research demos to production i
 - [Pydantic AI](https://ai.pydantic.dev/) - Best for type-safe, Pythonic agentic AI
 
 ---
+
+## Desktops for AI
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/o_featured.jpg" width="800" alt="Desktops for AI">
+
+Running AI on your own machine changed the maths: no per-token bill, no upload limits, and nothing leaves your desk. The best desktop for AI is whichever one holds the model you actually want to run, so VRAM and unified memory matter more than raw clock speed — a $1,099 tower is plenty for Stable Diffusion, while a 70B local LLM needs 64GB or more. These six picks cover every budget, from a budget image-generation box to a purpose-built personal AI supercomputer. See the full [best desktop for AI](https://www.aimiracle.ai/ai-collections/best-desktop-for-ai/) collection.
+
+- [HP OMEN 16L](https://www.aimiracle.ai/go/hp-omen-16l/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Best budget desktop for AI image generation
+- [Apple Mac Mini M4 Pro](https://www.aimiracle.ai/go/mac-mini-m4-pro/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The value sweet spot for local AI models
+- [GMKtec EVO-X2](https://www.aimiracle.ai/go/gmktec-evo-x2/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The cheapest route to 128GB for AI
+- [Apple Mac Studio M4 Max](https://www.aimiracle.ai/go/mac-studio-m4-max/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The fastest Apple desktop for AI work
+- [HP OMEN 45L](https://www.aimiracle.ai/go/hp-omen-45l/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The RTX 5090 PC for AI video generation
+- [NVIDIA DGX Spark](https://www.aimiracle.ai/go/nvidia-dgx-spark/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - A desktop built only for AI
+
+---
+
+## AI 3D Model Generators
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/08/best-ai-3d-model-generators.jpg" width="800" alt="AI 3D Model Generators">
+
+The best AI 3D model generators finally hand you a real file instead of another pretty render — a mesh you can open in Blender, drop into a game engine, or send to a printer. What separates them is what happens after the preview: topology you can edit, UVs and textures that survive the export, and formats like GLB, FBX, OBJ or STEP. We judged twelve tools on mesh quality, export options and how far the free tier really gets you, from fast concept meshes to printable CAD parts and scans of real rooms. See the full [best AI 3D model generators](https://www.aimiracle.ai/ai-collections/best-ai-3d-model-generators/) collection.
+
+- [Tripo AI](https://www.aimiracle.ai/go/tripo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Fast AI 3D model generation for concept work
+- [3D AI Studio](https://www.3daistudio.com/) - Best free AI 3D model generator to start with
+- [Meshy](https://www.aimiracle.ai/go/meshy/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The AI 3D model editor that wins on textures
+- [GrandpaCAD](https://grandpacad.com/) - Best for 3D printing and CAD parts
+- [Sloyd](https://www.sloyd.ai/) - Parametric 3D model creator for game-ready assets
+- [3D Model Maker](https://www.aimiracle.ai/go/3d-model-maker/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Creates 3D model files from a single photo
+- [Rodin](https://hyper3d.ai/) - AI 3D model generator with the sharpest geometry
+- [Vizcom](https://vizcom.com/) - Turns hand sketches into 3D models in minutes
+- [Spline](https://spline.design/) - Generates 3D scenes built for the web
+- [Polycam](https://poly.cam/) - Floor plan and room scanning to 3D
+- [Kaedim](https://www.kaedim3d.com/) - AI 3D model generation with a human quality pass
+- [TRELLIS](https://github.com/microsoft/TRELLIS) - Free, open-source 3D model generator you run yourself
+
+---
+
+## About AIMiracle MAG
+
+**[AIMiracle MAG](https://aimiracle.ai)** is an independent platform delivering daily AI news, tool discoveries, and practical tutorials. Our mission is to make AI accessible to everyone — from developers and designers to entrepreneurs and creators.
+
+- Website: [aimiracle.ai](https://aimiracle.ai)
+- Contact: aimiraclemag@gmail.com
+
+*Updated: August 2026*
+
