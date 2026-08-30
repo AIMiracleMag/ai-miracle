@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-28-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-29-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -37,6 +37,7 @@
 - [Agentic AI Frameworks](#agentic-ai-frameworks)
 - [Desktops for AI](#desktops-for-ai)
 - [AI 3D Model Generators](#ai-3d-model-generators)
+- [AI Research Tools](#ai-research-tools)
 
 ---
 
@@ -574,6 +575,24 @@ The best AI 3D model generators finally hand you a real file instead of another 
 - [Polycam](https://poly.cam/) - Floor plan and room scanning to 3D
 - [Kaedim](https://www.kaedim3d.com/) - AI 3D model generation with a human quality pass
 - [TRELLIS](https://github.com/microsoft/TRELLIS) - Free, open-source 3D model generator you run yourself
+
+---
+
+## AI Research Tools
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/08/featured-1700.jpg" width="800" alt="AI Research Tools">
+
+Preparing a literature review used to mean forty open tabs and a hope that the right study sat in one of them. The best AI research tools now search hundreds of millions of papers, pull the findings into a table, and show you the exact sentence a claim came from. They are not interchangeable, though: one finds evidence you can cite, another screens thousands of abstracts against your criteria, and a third only fixes the grammar before you submit. These nine cover the whole run, from the first search to the last citation, and most have a free tier worth testing before you pay for anything. See the full [best AI research tools](https://www.aimiracle.ai/ai-collections/best-ai-research-tools/) collection.
+
+- [Consensus](https://www.aimiracle.ai/go/consensus/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Evidence-based answers from peer-reviewed papers
+- [Paperguide](https://www.aimiracle.ai/go/paperguide/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Built for systematic reviews and PRISMA reporting
+- [Paperpal](https://www.aimiracle.ai/go/paperpal/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Academic editing that works inside Word
+- [Jenni AI](https://www.aimiracle.ai/go/jenni/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Writes with the citations attached as you go
+- [SciSummary](https://www.aimiracle.ai/go/scisummary/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Structured paper summaries for $4 a month
+- [SciSpace](https://scispace.com/) - Explains dense papers in plain language
+- [Elicit](https://elicit.com/) - Screens and extracts across 138 million papers
+- [Gemini Notebook](https://notebook.google/) - Answers only from the sources you upload
+- [Zotero](https://www.zotero.org/) - The free reference manager everything imports from
 
 ---
 
