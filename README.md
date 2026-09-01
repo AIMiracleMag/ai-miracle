@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-29-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-31-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -38,6 +38,8 @@
 - [Desktops for AI](#desktops-for-ai)
 - [AI 3D Model Generators](#ai-3d-model-generators)
 - [AI Research Tools](#ai-research-tools)
+- [AI Robot Dogs](#ai-robot-dogs)
+- [AI App Builders](#ai-app-builders)
 
 ---
 
@@ -596,6 +598,36 @@ Preparing a literature review used to mean forty open tabs and a hope that the r
 
 ---
 
+## AI Robot Dogs
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/08/best-ai-robot-dog.jpg" width="800" alt="AI Robot Dogs">
+
+The phrase AI robot dog covers four genuinely different machines, which is why shopping for one goes wrong so often. A $79 toy, a $439 petbot that holds a conversation, a $2,899 Sony companion and a $1,600 quadruped that climbs stairs all answer to the same search. We split these six by what each is actually built to do, because buying across that line is the expensive mistake. Every price was checked on the maker's own store in August 2026, and where a robot is still waitlist-only we say so instead of pretending you can order it today. See the full [best AI robot dog](https://www.aimiracle.ai/ai-collections/best-ai-robot-dog/) collection.
+
+- [Loona](https://www.aimiracle.ai/go/loona-petbot/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - GPT-4o conversation at $439 with no subscription
+- [Sony aibo](https://us.aibo.com/) - The most realistic robot dog, with behaviour that develops over time
+- [Unitree Go2](https://www.aimiracle.ai/go/unitree-go2/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The quadruped that walks stairs, grass and gravel
+- [Petoi Bittle X](https://www.aimiracle.ai/go/petoi-bittle-x/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Programmable robot dog kit on open-source OpenCat, from $319
+- [Tombot Jennie](https://tombot.com/) - Lap-sized fur companion built for dementia care
+- [WowWee Dog-E](https://www.aimiracle.ai/go/wowwee-dog-e/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The robot dog toy that costs under $100
+
+---
+
+## AI App Builders
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/08/best-ai-app-builder.jpg" width="800" alt="AI App Builders">
+
+The best AI app builder is not the one with the slickest demo. It is the one that still works on day three, when you need a login screen, a database and a way to take money. We judged six on the same question: after the prompt, do you get a full stack with auth and payments wired in, or a pretty front end with the plumbing left to you? Published rates were checked in August 2026, and because every one of these meters usage on top of the subscription, treat the monthly figure as a floor rather than a ceiling. See the full [best AI app builder](https://www.aimiracle.ai/ai-collections/best-ai-app-builder/) collection.
+
+- [Runable](https://www.aimiracle.ai/go/runable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Builds the app, then runs the ads and outreach after launch
+- [Lovable](https://www.aimiracle.ai/go/lovable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Full stack output with a real Supabase backend and GitHub sync
+- [Base44](https://base44.com/) - Database, auth, hosting and email all native, nothing to wire up
+- [Bolt.new](https://bolt.new/) - Prompt to a shareable live URL in minutes
+- [Replit](https://www.aimiracle.ai/go/replit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The agent plus a real browser IDE, so you can take the wheel back
+- [Hostinger AI Builder](https://www.hostinger.com/horizons) - Hosting, domain and email arrive with the builder
+
+---
+
 ## About AIMiracle MAG
 
 **[AIMiracle MAG](https://aimiracle.ai)** is an independent platform delivering daily AI news, tool discoveries, and practical tutorials. Our mission is to make AI accessible to everyone — from developers and designers to entrepreneurs and creators.
@@ -603,5 +635,5 @@ Preparing a literature review used to mean forty open tabs and a hope that the r
 - Website: [aimiracle.ai](https://aimiracle.ai)
 - Contact: aimiraclemag@gmail.com
 
-*Updated: August 2026*
+*Updated: September 2026*
 
