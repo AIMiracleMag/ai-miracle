@@ -887,6 +887,120 @@ Cute, collectible, photorealistic plush look. Centered close-up, 1080x1080.
 
 ---
 
+## 18. Krishna Janmashtami Portraits
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/krishna-janmashtami-ai-photo-editing-featured.jpg" width="800" alt="Krishna Janmashtami Portraits">
+
+*Upload one clear photo and turn it into a Bal Krishna, Radha Rani or Makhan Chor festival portrait, with the outfit, jewellery and Vrindavan backdrop rebuilt around your own face. The couple and Yashoda prompts take two photos.*
+
+**Works with:** Google Gemini (Nano Banana), ChatGPT
+
+### Turn your child's photo into Little Krishna
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/krishna-janmashtami-ai-photo-editing-little-krishna-765x1024.jpg" width="46%" alt="Turn your child's photo into Little Krishna example">
+
+```
+Using the uploaded photo, create a warm festive portrait of the same child as Bal Krishna.
+
+Dress the child in a bright yellow silk dhoti with a gold border, a small peacock feather crown, a beaded necklace and tiny anklets, with a clay butter pot beside them. The background is a decorated Janmashtami jhula in a courtyard, with marigold garlands and warm oil lamp light.
+
+Keep the face, skin tone and hair from my uploaded photo completely unchanged. Photorealistic, soft golden hour lighting, 4:5 vertical, high detail.
+```
+
+### The Makhan Chor butter pot portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/makhan-chor-ai-photo-editing-prompt-765x1024.jpg" width="46%" alt="The Makhan Chor butter pot portrait example">
+
+```
+Using the uploaded photo, place the same person in a Makhan Chor scene from Krishna lore.
+
+They wear a yellow dhoti and a blue shawl with a peacock feather tucked into their hair, reaching up toward a clay matki hanging from a rope, butter on their fingers and a playful smile on their face. The setting is a mud-walled Gokul courtyard at dawn with cows resting behind them.
+
+Do not change the face from my uploaded photo. Photorealistic, warm morning light, 4:5 vertical.
+```
+
+### The Radha Rani portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/radha-rani-ai-photo-editing-portrait-765x1024.jpg" width="46%" alt="The Radha Rani portrait example">
+
+```
+Using the uploaded photo, create a Radha Rani inspired portrait of the same woman.
+
+She wears a deep pink and gold lehenga with heavy traditional jewellery, a maang tikka, a nose ring and stacked bangles, with a translucent dupatta over her hair, holding a small garland of white flowers. The background is a soft-focus Vrindavan temple courtyard with hanging brass lamps.
+
+Keep her exact facial features, skin tone and eye shape from my uploaded photo. Photorealistic portrait, soft diffused light, 4:5 vertical.
+```
+
+### Radha and Krishna couple portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/radha-krishna-couple-ai-photo-editing-765x1024.jpg" width="46%" alt="Radha and Krishna couple portrait example">
+
+```
+Using the two uploaded photos, create a Radha and Krishna inspired couple portrait.
+
+Dress the man as Krishna in a yellow dhoti, a blue shawl and a peacock feather crown, holding a wooden bansuri. Dress the woman as Radha in a pink and gold lehenga with traditional jewellery and a flower garland. They stand close together under a flowering kadamba tree beside the Yamuna at dusk.
+
+Keep both faces exactly as they appear in my uploaded photos. Photorealistic, cinematic warm light, 4:5 vertical.
+```
+
+### Yashoda holding baby Krishna
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/yashoda-baby-krishna-ai-photo-editing-765x1024.jpg" width="46%" alt="Yashoda holding baby Krishna example">
+
+```
+Using the two uploaded photos, create a tender portrait of the woman as Yashoda holding the child as baby Krishna.
+
+She wears a red and gold saree with simple gold jewellery. The baby wears a yellow dhoti, a peacock feather headband and small anklets, resting against her shoulder. The setting is a warm village home interior lit by clay lamps, with a butter pot on the floor beside them.
+
+Keep both faces unchanged from my uploaded photos. Photorealistic, soft candlelight, 4:5 vertical.
+```
+
+### Krishna with the bansuri by the Yamuna
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/krishna-bansuri-ai-photo-editing-portrait-765x1024.jpg" width="46%" alt="Krishna with the bansuri by the Yamuna example">
+
+```
+Using the uploaded photo, place the same man in a classic Krishna portrait.
+
+He wears a yellow silk dhoti, a blue shawl over one shoulder, a peacock feather crown and layered beaded necklaces, playing a wooden bansuri. He stands on the stone steps of a ghat beside the Yamuna river at sunrise, with lotus flowers on the water and a peacock nearby.
+
+Do not alter the face from my uploaded photo. Photorealistic, golden rim light, 4:5 vertical.
+```
+
+### The Dahi Handi street celebration
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/dahi-handi-janmashtami-ai-photo-editing-765x1024.jpg" width="46%" alt="The Dahi Handi street celebration example">
+
+```
+Using the uploaded photo, put the same person at the front of a Dahi Handi celebration.
+
+They wear a saffron kurta with a tied headband, arms raised in the middle of a cheering human pyramid, with a clay handi hanging high on a rope above them and coloured water in the air. The street is decorated with marigold garlands and festival flags, in a Mumbai neighbourhood at midday.
+
+Keep the face from my uploaded photo exactly. Photorealistic, bright natural light, energetic motion, 4:5 vertical.
+```
+
+### A Happy Janmashtami greeting poster
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/happy-janmashtami-ai-poster-photo-editing-765x1024.jpg" width="46%" alt="A Happy Janmashtami greeting poster example">
+
+```
+Using the uploaded photo, design a Happy Janmashtami greeting poster featuring the same person.
+
+Place them on the right in traditional festive clothing with a peacock feather motif, and leave clean empty space on the left for text. The background is a deep blue and gold gradient with a silhouette of Krishna playing the bansuri, floating diyas and small flute motifs. Add the words Happy Janmashtami in elegant gold lettering at the top left.
+
+Keep the face from my uploaded photo unchanged. High resolution, poster composition, 4:5 vertical.
+```
+
+**Tips**
+
+- Start with a sharp, evenly lit, front-facing photo at 1080px or wider; dark or blurry selfies come back looking like a stranger.
+- Every prompt ends with a face-lock line. If the face still drifts, reply with a correction instead of starting over.
+- Change one thing at a time, then zoom in on hands, bangles and the flute before you post.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/krishna-janmashtami-ai-photo-editing/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
 ## Keep creating
 
 Browse more copy-paste trends in the [AIMiracle How-To hub](https://www.aimiracle.ai/how-to/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), find the right tool in the [AI image generators collection](https://www.aimiracle.ai/ai-collections/ai-image-generator-from-text/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), then bring your art to life with the [AI video generators collection](https://www.aimiracle.ai/ai-collections/best-free-ai-video-generators/?utm_source=github&utm_medium=readme&utm_campaign=backlinks).
