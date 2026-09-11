@@ -1,6 +1,6 @@
 # AI Image Prompt Pack
 
-**36 copy-paste prompts to turn your selfies into viral AI art.** Twelve of the biggest AI photo trends of 2026 - each with the exact prompts, the tools that run them, and pro tips.
+**63 copy-paste prompts to turn your selfies into viral AI art.** Eighteen of the biggest AI photo trends of 2026 - each with the exact prompts, the tools that run them, and pro tips.
 
 ## How to use this pack
 
