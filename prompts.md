@@ -1,6 +1,6 @@
 # AI Image Prompt Pack
 
-**63 copy-paste prompts to turn your selfies into viral AI art.** Eighteen of the biggest AI photo trends of 2026 - each with the exact prompts, the tools that run them, and pro tips.
+**75 copy-paste prompts to turn your selfies into viral AI art.** Twenty of the biggest AI photo trends of 2026 - each with the exact prompts, the tools that run them, and pro tips.
 
 ## How to use this pack
 
@@ -998,6 +998,210 @@ Keep the face from my uploaded photo unchanged. High resolution, poster composit
 - Change one thing at a time, then zoom in on hands, bangles and the flute before you post.
 
 [Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/krishna-janmashtami-ai-photo-editing/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
+## 19. 1980s Film Photo
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/1980s-ai-photo-prompt-featured.jpg" width="800" alt="1980s Film Photo">
+
+*Upload a recent photo and ask the model to rebuild it as a print from 1985 — the clothing, the hair, the room and the grain, not a sepia filter laid over the top. Your face stays, the decade around it changes. The card titles describe what comes out, not what goes in.*
+
+**Works with:** ChatGPT, Google Gemini, or any AI image generator
+
+### The 1985 Family Album Photo
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/1980s-family-album-ai-photo-765x1024.jpg" width="46%" alt="The 1985 Family Album Photo example">
+
+```
+Rebuild this photo as a real family photograph taken in 1985 and printed from 35mm film. Do not apply a vintage filter. Keep the face, facial structure, skin tone, body proportions and expression exactly as they are.
+
+Change everything around the person to the period instead: the clothing, the hair, and the room or street behind them. Use warm, slightly yellow sunlight, mild overexposure, soft highlights and visible analogue grain.
+
+Let the colours fade the way an old print fades, with the reds drifting towards orange. Add gentle lens softness, slightly imperfect focus and a few small dust marks. Frame it 3:4.
+
+The result should look like a photograph someone found in a shoebox, not a digitally edited modern picture.
+```
+
+### The 1980s Bollywood Poster
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/1980s-film-poster-ai-photo-765x1024.jpg" width="46%" alt="The 1980s Bollywood Poster example">
+
+```
+Turn this photo into a hand-painted Bollywood film poster from the early 1980s. Keep the face and identity clearly recognisable, with the same features and the same skin tone.
+
+Paint it the way Indian poster artists worked before digital printing: visible brush texture, bold reds, yellows and deep blues, dramatic rim lighting and a larger-than-life pose.
+
+Add the slight colour misregistration and paper grain of a poster that has hung on a wall for years. Leave empty space along the bottom where a title would have been printed, but write no text at all. Frame it 3:4.
+
+It should look painted rather than photographed, and it should not look like a modern digital illustration.
+```
+
+### The 1984 Disco Night
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/1980s-disco-ai-photo-765x1024.jpg" width="46%" alt="The 1984 Disco Night example">
+
+```
+Rebuild this photo as a candid shot taken on a crowded dance floor in 1984. Keep the face, facial structure, skin tone, proportions and expression exactly as they are.
+
+Dress the person for the night: a satin or sequinned top that catches every light, bold gold jewellery, and big voluminous hair with plenty of body and movement.
+
+Light it the way a club was lit then. A mirror ball throws moving specks across the room, magenta and cyan gels cut through a little haze, and a direct camera flash freezes the subject against the dark crowd behind.
+
+Shoot it on 35mm colour film with rich saturated colour, deep blacks, visible grain and slightly blown highlights where the flash lands. Keep the face sharp and properly exposed. Frame it 3:4.
+```
+
+**Tips**
+
+- Protect the face in one sentence: keep the face, facial structure, skin tone and expression exactly as they are. Leave it out and the model quietly hands you a stranger in period clothes.
+- Ask for period detail instead of the word vintage. Name the clothing, the hair, the light source and the film stock. Vague prompts give you a sepia wash, specific ones give you a decade.
+- Ask for imperfection on purpose. Grain, mild overexposure, soft focus, faded reds and a little dust are what modern cameras remove, and what makes the result read as genuine.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/1980-photo-prompt/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
+## 20. Navratri Garba Portraits
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/google-gemini-navratri-prompt.jpg" width="800" alt="Navratri Garba Portraits">
+
+*One clear selfie becomes a chaniya choli twirl, a dandiya raas action shot or a devotional Durga Puja portrait, with the outfit, the jewellery and the garba ground rebuilt around your own face. Nine looks cover the whole run of the nine nights. The couple prompt takes two photos.*
+
+**Works with:** Google Gemini (Nano Banana), ChatGPT
+
+### The chaniya choli garba portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/navratri-chaniya-choli-garba-prompt-765x1024.jpg" width="46%" alt="The chaniya choli garba portrait example">
+
+```
+Using the uploaded photo, create a festive full length portrait of the same woman dressed for garba night.
+
+Dress her in a traditional Gujarati chaniya choli: a heavily embroidered flared skirt in deep red and green with small round mirrors, a fitted choli, and a light dupatta draped across one shoulder. Add oxidised silver jewellery, layered bangles, jhumka earrings and a maang tikka.
+
+Place her on a decorated garba ground at night, with marigold strings, clay lamps and a softly blurred crowd behind her. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, warm festival lighting, shallow depth of field, 3:4 vertical, high detail.
+```
+
+### The kediyu and dhoti garba look
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/navratri-kediyu-dhoti-garba-prompt-765x1024.jpg" width="46%" alt="The kediyu and dhoti garba look example">
+
+```
+Using the uploaded photo, create a festive full length portrait of the same man dressed for garba night.
+
+Dress him in a traditional Gujarati kediyu, a short pleated jacket in off white with red embroidery, worn over a dhoti, with a printed bandhani turban and a colourful stole. Add a beaded necklace and a simple kada on the wrist.
+
+Place him on a decorated garba ground at night with marigold strings, clay lamps and a softly blurred crowd behind him. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, warm festival lighting, shallow depth of field, 3:4 vertical, high detail.
+```
+
+### The nine-colour saree portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/navratri-saree-ai-photo-prompt-765x1024.jpg" width="46%" alt="The nine-colour saree portrait example">
+
+```
+Using the uploaded photo, create an elegant portrait of the same woman in a silk saree for one night of Navratri.
+
+Dress her in a {colour} silk saree with a contrasting embroidered border and a matching blouse, worn in a neat traditional drape. Add temple style gold jewellery, a small bindi and fresh flowers in the hair.
+
+Place her in a home courtyard decorated for the festival, with a rangoli on the floor and oil lamps glowing along the edges. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, warm evening light, soft shadows, 3:4 vertical, high detail.
+```
+
+### The dandiya raas action shot
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/navratri-dandiya-raas-ai-photo-765x1024.jpg" width="46%" alt="The dandiya raas action shot example">
+
+```
+Using the uploaded photo, create an energetic portrait of the same man mid dance during dandiya raas.
+
+He is striking a pair of decorated dandiya sticks, caught in the middle of the step, with his stole lifting behind him. Dress him in an embroidered kediyu, dhoti and bandhani turban.
+
+Light it like a real garba ground at night: warm bulbs strung overhead, faint haze in the air, and a blurred ring of dancers around him. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, motion only in the fabric and sticks, face sharp, 3:4 vertical, high detail.
+```
+
+### The dandiya night portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/navratri-dandiya-night-ai-photo-765x1024.jpg" width="46%" alt="The dandiya night portrait example">
+
+```
+Using the uploaded photo, create an energetic portrait of the same woman mid dance during dandiya raas.
+
+She is holding a pair of decorated dandiya sticks, caught mid turn, with her skirt and dupatta still moving. Dress her in a bright embroidered chaniya choli with mirror work and heavy silver jewellery.
+
+Light the scene the way a garba ground looks at night: strings of warm bulbs overhead, a little haze, and a blurred circle of dancers behind her. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, slight motion blur in the fabric only, face sharp, 3:4 vertical, high detail.
+```
+
+### The little garba dancer
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/navratri-kids-garba-ai-photo-765x1024.jpg" width="46%" alt="The little garba dancer example">
+
+```
+Using the uploaded photo, create a warm festive portrait of the same child dressed for garba night.
+
+Dress the {girl or boy} in a small traditional garba outfit: for a girl a bright embroidered chaniya choli with mirror work and light silver jewellery, for a boy a small kediyu with a dhoti and a printed bandhani turban. Add tiny dandiya sticks held in both hands.
+
+Place the child in a decorated courtyard with marigold garlands, clay lamps and soft golden light. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, warm and gentle lighting, natural child proportions, 3:4 vertical, high detail.
+```
+
+### The garba couple portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/navratri-couple-ai-photo-prompt-765x1024.jpg" width="46%" alt="The garba couple portrait example">
+
+```
+Using the two uploaded photos, create a festive portrait of the same couple dressed for garba night, standing together mid dance.
+
+Dress the woman in an embroidered chaniya choli with mirror work and silver jewellery, and the man in a kediyu and dhoti with a bandhani turban and a colourful stole. They face each other with dandiya sticks raised, caught in the middle of a step.
+
+Place them on a decorated garba ground at night with marigold strings, warm bulbs overhead and a blurred crowd behind. Keep the face, skin tone and hair of BOTH people from my uploaded photos completely unchanged, and do not blend their features. If one of the uploaded photos is black and white, infer a natural skin tone for that person and keep every other feature exactly as photographed.
+
+Photorealistic, warm festival lighting, both faces sharp, 3:4 vertical, high detail.
+```
+
+### The Durga Maa devotional portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/durga-puja-devotional-ai-photo-765x1024.jpg" width="46%" alt="The Durga Maa devotional portrait example">
+
+```
+Using the uploaded photo, create a respectful devotional portrait of the same woman dressed in traditional red and gold for Durga Puja.
+
+Dress her in a red silk saree with a wide gold border, traditional gold jewellery and a red bindi. She stands with folded hands beside a decorated pandal entrance, with a Durga idol softly out of focus in the background behind her.
+
+Keep the idol clearly in the background and never blended with her. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, warm lamp light, reverent and calm mood, 3:4 vertical, high detail.
+```
+
+### A Happy Navratri greeting poster
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/happy-navratri-ai-greeting-poster-765x1024.jpg" width="46%" alt="A Happy Navratri greeting poster example">
+
+```
+Using the uploaded photo, create a festive Navratri greeting image with the same person as the subject.
+
+Place them in festival clothing against a decorative background of marigold garlands, clay lamps, dandiya sticks and a soft golden glow. Leave clear empty space along the top of the frame where a greeting would be written, but do not write any text or lettering at all.
+
+Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic with a warm poster finish, rich reds, golds and greens, 3:4 vertical, high detail.
+```
+
+**Tips**
+
+- Keep it to one face wherever you can. Every extra person is another likeness the model can lose, which is why the couple prompt asks for two uploads instead of one group shot.
+- Be specific about fabric. Chaniya choli, bandhani, mirror work, oxidised silver and temple jewellery are all things the model knows by name, while traditional and ethnic produce a costume from no region at all.
+- Match the light to the scene. A garba ground at night has warm bulbs and haze, not studio softboxes, and the wrong light is what makes a festival portrait look pasted together.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/google-gemini-navratri-prompt/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ---
 
