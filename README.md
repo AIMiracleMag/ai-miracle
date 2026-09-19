@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-32-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-34-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -41,6 +41,8 @@
 - [AI Robot Dogs](#ai-robot-dogs)
 - [AI App Builders](#ai-app-builders)
 - [OurDream AI Alternatives](#ourdream-ai-alternatives)
+- [AI Website Builders](#ai-website-builders)
+- [AI Landing Page Builders](#ai-landing-page-builders)
 
 ---
 
@@ -644,6 +646,42 @@ OurDream AI has the most natural voice among companion sites and a memory that h
 - [JOI](https://joi.chat) - A private one-on-one companion with cheaper images and video
 - [Promptchan](https://www.aimiracle.ai/go/promptchan/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - An NSFW image engine first, with character chat on top
 - [JanitorAI](https://janitorai.com) - Free front end where you bring your own model and set your own filter
+
+---
+
+## AI Website Builders
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/best-ai-website-builder-2026.jpg" width="800" alt="AI Website Builders">
+
+The best AI website builder depends on one question most roundups skip: do you want a site you edit in a dashboard, or a site that lives in code you own? Wix, Squarespace, Durable and 10Web sit in the first camp; Lovable, Runable and the frontier coding agents Claude Code and OpenAI Codex sit in the second. We judged all nine on the same day-two test, changing the hero, adding a booking form and connecting a domain after the AI has done its part, with every price checked on the official pricing page in September 2026. See the full [best AI website builder](https://www.aimiracle.ai/ai-collections/best-ai-website-builder/) collection.
+
+- [Lovable](https://www.aimiracle.ai/go/lovable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - A real React codebase and Supabase database on the free plan
+- [Runable](https://www.aimiracle.ai/go/runable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Builds the site and then runs the marketing behind it
+- [Framer](https://www.framer.com/) - Wireframer plus the strongest visual editor and animations
+- [10Web](https://10web.io/ai-website-builder/) - The one AI builder whose output is real, portable WordPress
+- [Durable](https://durable.com/) - A live site in about 30 seconds with CRM and invoicing built in
+- [Wix](https://www.wix.com/ai-website-builder) - Harmony AI builder plus the largest app market
+- [Squarespace](https://www.squarespace.com/websites/ai-website-builder) - Blueprint AI output that looks designed, not generated
+- [Claude Code](https://claude.com/product/claude-code) - The cleanest, most portable code with no platform in the way
+- [OpenAI Codex](https://openai.com/codex/) - Agentic site building included in every ChatGPT plan
+
+---
+
+## AI Landing Page Builders
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/best-ai-landing-page-builder-2026.jpg" width="800" alt="AI Landing Page Builders">
+
+A landing page has one job, so we judged every AI landing page builder on how fast it gets from a brief to a page that converts, and what it does after launch. The conversion platforms, Unbounce, Leadpages, Landingi, Instapage and Swipe Pages, generate the page and then keep optimising it with traffic routing, A/B tests and heatmaps. The code-first generators, Framer, Lovable, v0 and Claude Code, produce a sharper page from a prompt but leave the testing to you. Prices were checked in September 2026 and almost every tool meters AI credits on top. See the full [best AI landing page builder](https://www.aimiracle.ai/ai-collections/best-ai-landing-page-builder/) collection.
+
+- [Unbounce](https://unbounce.com/) - Smart Traffic keeps routing visitors to whichever variant wins
+- [Leadpages](https://www.leadpages.com/) - The cheapest tool that still generates, hosts and scores the page
+- [Landingi](https://landingi.com/) - Lunar blends five AI models and EventTracker measures the result
+- [Instapage](https://instapage.com/) - AdMap ties every ad to its page for message match
+- [Swipe Pages](https://swipepages.com/) - Native AMP pages that load in under a second on mobile
+- [Framer](https://www.framer.com/) - The best-looking page from a prompt, with a real free plan
+- [Lovable](https://www.aimiracle.ai/go/lovable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The landing page and the product behind it in one codebase you own
+- [v0 by Vercel](https://v0.app/) - Production-ready Next.js pages with one-click Vercel deploy
+- [Claude Code](https://claude.com/product/claude-code) - Full control and zero platform cost, testing is on you
 
 ---
 
