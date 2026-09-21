@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-34-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-35-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -43,6 +43,7 @@
 - [OurDream AI Alternatives](#ourdream-ai-alternatives)
 - [AI Website Builders](#ai-website-builders)
 - [AI Landing Page Builders](#ai-landing-page-builders)
+- [AI Tools for Teachers](#ai-tools-for-teachers)
 
 ---
 
@@ -682,6 +683,24 @@ A landing page has one job, so we judged every AI landing page builder on how fa
 - [Lovable](https://www.aimiracle.ai/go/lovable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The landing page and the product behind it in one codebase you own
 - [v0 by Vercel](https://v0.app/) - Production-ready Next.js pages with one-click Vercel deploy
 - [Claude Code](https://claude.com/product/claude-code) - Full control and zero platform cost, testing is on you
+
+---
+
+## AI Tools for Teachers
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/best-ai-tools-for-teachers.jpg" width="800" alt="AI Tools for Teachers">
+
+Teachers spend their evenings on four jobs: planning lessons, differentiating material, giving feedback and checking whether a student used AI. We matched the best AI tools for teachers to those four jobs instead of ranking them on one scale. Chalkie and MagicSchool plan lessons, Diffit levels reading texts, Brisk writes feedback inside Google Docs, and GPTZero handles AI checks, while Khanmigo, ChatGPT for Teachers and Claude for Teachers are free assistants for verified US teachers. Every price was checked on the official pricing page in September 2026. See the full [best AI tools for teachers](https://www.aimiracle.ai/ai-collections/best-ai-tools-for-teachers/) collection.
+
+- [MagicSchool](https://www.magicschool.ai/) - More than 80 teacher tools behind one login, with a usable free plan
+- [Chalkie](https://chalkie.ai/en) - A projectable slideshow lesson with scaffold and stretch worksheets in seconds
+- [Brisk Teaching](https://www.briskteaching.com/) - Free feedback, quizzes and leveling inside Google Docs and Slides
+- [Diffit](https://web.diffit.me/) - Any text, link or topic turned into leveled reading at the right grade
+- [GPTZero](https://gptzero.me/) - AI detection with Writing Replay, the evidence trail teachers need
+- [Gamma](https://gamma.app/) - The best-looking lesson decks from a rough outline
+- [Khanmigo](https://www.khanmigo.ai/) - Khan Academy's non-profit assistant, free for teachers
+- [ChatGPT for Teachers](https://openai.com/index/chatgpt-for-teachers/) - Full ChatGPT with education privacy, free for US K-12 educators through June 2028
+- [Claude for Teachers](https://www.anthropic.com/news/claude-for-teachers) - A free year of premium Claude with Learning Mode and state standards
 
 ---
 
