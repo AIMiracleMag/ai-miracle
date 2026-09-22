@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-35-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-36-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -44,6 +44,7 @@
 - [AI Website Builders](#ai-website-builders)
 - [AI Landing Page Builders](#ai-landing-page-builders)
 - [AI Tools for Teachers](#ai-tools-for-teachers)
+- [AI Homework Helpers](#ai-homework-helpers)
 
 ---
 
@@ -701,6 +702,23 @@ Teachers spend their evenings on four jobs: planning lessons, differentiating ma
 - [Khanmigo](https://www.khanmigo.ai/) - Khan Academy's non-profit assistant, free for teachers
 - [ChatGPT for Teachers](https://openai.com/index/chatgpt-for-teachers/) - Full ChatGPT with education privacy, free for US K-12 educators through June 2028
 - [Claude for Teachers](https://www.anthropic.com/news/claude-for-teachers) - A free year of premium Claude with Learning Mode and state standards
+
+---
+
+## AI Homework Helpers
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/ai-homework-helper-picture.jpg" width="800" alt="AI Homework Helpers">
+
+Homework help now starts with a camera: snap the problem and an AI homework helper reads it, picks the subject and writes out the steps. The apps are not interchangeable, so we sorted them by what they do best. Gauth and StudyX solve photos across every subject, Photomath keeps free step by step math, Brainly adds human tutors, and Khanmigo, ChatGPT study mode and Gemini Guided Learning teach the method instead of handing over the answer. Every price was checked in September 2026. See the full [AI homework helper picture apps](https://www.aimiracle.ai/ai-collections/ai-homework-helper-picture/) collection.
+
+- [Gauth](https://www.gauthmath.com/) - The fastest photo solver for mixed homework, from math to history
+- [Photomath](https://photomath.com/) - Google's camera math solver with free step by step solutions
+- [StudyX](https://studyx.ai/) - Homework help, notes, flashcards and lecture transcription in one account
+- [Brainly](https://brainly.com/) - An AI Tutor backed by a huge student community and live tutors
+- [ChatGPT](https://chatgpt.com/) - Reads homework photos, and study mode guides with questions instead of answers
+- [Khanmigo](https://www.khanmigo.ai/learners) - Khan Academy's nonprofit tutor that teaches the method, $4 a month
+- [Google Gemini](https://gemini.google.com/) - Guided Learning turns a free assistant into a patient study partner
+- [Quizlet](https://quizlet.com/) - Flashcards and practice tests that turn homework into revision
 
 ---
 
