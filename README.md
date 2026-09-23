@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-36-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-37-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -45,6 +45,7 @@
 - [AI Landing Page Builders](#ai-landing-page-builders)
 - [AI Tools for Teachers](#ai-tools-for-teachers)
 - [AI Homework Helpers](#ai-homework-helpers)
+- [AI Note Takers](#ai-note-takers)
 
 ---
 
@@ -719,6 +720,23 @@ Homework help now starts with a camera: snap the problem and an AI homework help
 - [Khanmigo](https://www.khanmigo.ai/learners) - Khan Academy's nonprofit tutor that teaches the method, $4 a month
 - [Google Gemini](https://gemini.google.com/) - Guided Learning turns a free assistant into a patient study partner
 - [Quizlet](https://quizlet.com/) - Flashcards and practice tests that turn homework into revision
+
+---
+
+## AI Note Takers
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/best-ai-note-taker.jpg" width="800" alt="AI Note Takers">
+
+Meeting notes split into two camps, and you pick one before you compare a single feature. Either a bot joins the call and leaves you a recording, or nothing joins and you get a written page instead. Granola owns the second camp, Otter.ai and Fathom own the first, and Plaud Note Pro is the only one that works across a table with no dial-in. Every price was checked on the vendor plan page in September 2026. See the full [best AI note taker](https://www.aimiracle.ai/ai-collections/best-ai-note-taker/) collection.
+
+- [Granola](https://www.granola.ai/) - The AI notepad that never joins your call and writes notes in your own voice
+- [Otter.ai](https://otter.ai/) - The recognised standard, with a bot, speaker labels and a replayable transcript
+- [Fathom](https://www.fathom.ai/) - Unlimited recording and transcription on a free plan that never expires
+- [Fireflies.ai](https://fireflies.ai/) - Turns every call in the company into one searchable knowledge base
+- [tl;dv](https://tldv.io/) - Multilingual capture that pushes meeting insight into your CRM
+- [Notion AI](https://www.notion.com/product/ai) - Meeting notes that land straight in the workspace you already pay for
+- [Krisp](https://krisp.ai/) - Works on any call, because it captures at the audio layer, plus the best noise removal
+- [Plaud Note Pro](https://www.plaud.ai/products/plaud-note-pro) - A credit-card sized recorder for the meetings no bot can reach
 
 ---
 
