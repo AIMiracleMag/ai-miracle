@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-37-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-38-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -46,6 +46,7 @@
 - [AI Tools for Teachers](#ai-tools-for-teachers)
 - [AI Homework Helpers](#ai-homework-helpers)
 - [AI Note Takers](#ai-note-takers)
+- [AI Girlfriend Apps](#ai-girlfriend-apps)
 
 ---
 
@@ -737,6 +738,28 @@ Meeting notes split into two camps, and you pick one before you compare a single
 - [Notion AI](https://www.notion.com/product/ai) - Meeting notes that land straight in the workspace you already pay for
 - [Krisp](https://krisp.ai/) - Works on any call, because it captures at the audio layer, plus the best noise removal
 - [Plaud Note Pro](https://www.plaud.ai/products/plaud-note-pro) - A credit-card sized recorder for the meetings no bot can reach
+
+---
+
+## AI Girlfriend Apps
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/best-ai-girlfriend-app.jpg" width="800" alt="AI Girlfriend Apps">
+
+The best AI girlfriend app depends on what you want her to do: consistent pictures and video, a voice that sounds real on a call, or a memory that still knows your week three months later. It also depends on a question most lists skip. The adult companions are not allowed in the App Store or Google Play, so they run as web apps you pin to the home screen, while Nomi, Replika and Kindroid ship real store apps. We marked that for all thirteen picks and checked every price in September 2026. See the full [best AI girlfriend app](https://www.aimiracle.ai/ai-collections/best-ai-girlfriend-app/) collection, also available [in German](https://www.aimiracle.ai/de/ki-freundin/).
+
+- [Candy AI](https://www.aimiracle.ai/go/candy/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The most consistent pictures, voice notes and Live Action video, from $3.99 a month yearly
+- [OurDream AI](https://www.aimiracle.ai/go/ourdream/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The most natural voice calls and a memory that follows the story
+- [Nomi AI](https://nomi.ai/) - A real iPhone app with the strongest long-term memory
+- [Replika](https://replika.com/) - The original companion, native on iOS and Android, free chat forever
+- [Kindroid](https://kindroid.ai/) - Voice and video calls with an unfiltered model in a store app
+- [CrushOn AI](https://www.aimiracle.ai/go/crushon/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Unlimited free chat on the free models and a huge character library
+- [JOI AI](https://www.aimiracle.ai/go/joi/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - About $4 a month on the yearly plan with 1,500 coins for images
+- [Muah AI](https://www.aimiracle.ai/go/muahai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - An uncensored companion that actually calls you on the phone
+- [DreamGF](https://www.aimiracle.ai/go/dreamgf/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The most detailed creator, closer to a simulator than a chat app
+- [GirlfriendGPT](https://www.aimiracle.ai/go/gptgirlfriend/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Thousands of community-made characters to browse and remix
+- [Kupid AI](https://www.aimiracle.ai/go/kupid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - A Reels feed of short companion videos that leads into calls
+- [Kales AI](https://www.aimiracle.ai/go/kales-ai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - A free plan with daily coins and adult content allowed
+- [aiAllure](https://www.aimiracle.ai/go/aiallure/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Seventeen coordinated character details and memory for one long relationship
 
 ---
 
