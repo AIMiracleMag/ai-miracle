@@ -1,6 +1,6 @@
 # AI Image Prompt Pack
 
-**75 copy-paste prompts to turn your selfies into viral AI art.** Twenty of the biggest AI photo trends of 2026 - each with the exact prompts, the tools that run them, and pro tips.
+**79 copy-paste prompts to turn your selfies into viral AI art.** Twenty-one of the biggest AI photo trends of 2026 - each with the exact prompts, the tools that run them, and pro tips.
 
 ## How to use this pack
 
@@ -1202,6 +1202,66 @@ Photorealistic with a warm poster finish, rich reds, golds and greens, 3:4 verti
 - Match the light to the scene. A garba ground at night has warm bulbs and haze, not studio softboxes, and the wrong light is what makes a festival portrait look pasted together.
 
 [Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/google-gemini-navratri-prompt/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
+## 21. Bad Times Pet Lip-Sync
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/bad-times-ai-trend.jpg" width="800" alt="Bad Times Pet Lip-Sync">
+
+*Your cat or dog argues with the camera over Bad Times by Imael Angel, copying a human lip-sync beat for beat. The recipe has two parts: a start frame of your pet in the opening pose, then a video model that animates it from a reference clip. The first three prompts build the start frame in 9:16, and the fourth is the video prompt.*
+
+**Works with:** any AI image generator for the start frame, then Wan 3.0 (on Magnific or Pollo AI) for the video
+
+### Standing cat in the kitchen
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/bad-times-ai-trend-cat-standing-start-frame-576x1024.jpg" width="46%" alt="Standing cat in the kitchen example">
+
+```
+Photorealistic vertical smartphone video frame. The exact same cream-ginger short-haired tabby cat from the reference photos (pale peach-beige fur with faint darker stripes on the forehead, yellow-green eyes, pink nose, long white whiskers) standing upright on its hind legs like a person in the middle of a modern home kitchen, facing the camera, full torso visible from the knees up, both front paws raised up beside its head in a frustrated gesture, mouth slightly open as if talking. Natural cat anatomy and proportions, no clothes.
+
+Background: bright kitchen with white cabinets and fridge on the left, grey wall, dark countertop, black pendant lamps, white chairs on the right. Soft daylight, fixed camera at chest height, sharp focus, realistic phone camera look.
+```
+
+### Close-up cat selfie
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/bad-times-ai-trend-cat-close-up-start-frame-576x1024.jpg" width="46%" alt="Close-up cat selfie example">
+
+```
+Photorealistic vertical smartphone selfie video frame, extreme close-up. The exact same cream-ginger short-haired tabby cat from the reference photos (pale peach-beige fur with faint darker stripes on the forehead, yellow-green eyes, pink nose, long white whiskers), head and upper chest filling the frame like a person recording a selfie video, looking straight into the camera with a serious expression, mouth slightly open as if speaking. Natural cat face and anatomy, no clothes.
+
+Background: plain grey wall of the same modern kitchen, black pendant lamp slightly out of focus at the top right. Soft daylight on the face, sharp focus on the eyes, realistic front phone camera look.
+```
+
+### Close-up dog selfie
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/bad-times-ai-trend-dog-close-up-start-frame-576x1024.jpg" width="46%" alt="Close-up dog selfie example">
+
+```
+Photorealistic vertical smartphone selfie video frame, extreme close-up. The exact same small cream Pomeranian dog from the reference photos (very fluffy pale cream and white coat, big fluffy mane around the face, small rounded fluffy ears, round dark shiny eyes, small black nose, short muzzle), its head and fluffy chest filling the frame like a person recording a selfie video, looking straight into the camera, mouth slightly open with the pink tongue just visible as if speaking. Natural dog face and anatomy, no clothes, no collar.
+
+Background: plain grey wall of a modern home, black pendant lamp slightly out of focus at the top right. Soft daylight on the face, sharp focus on the eyes, realistic front phone camera look.
+```
+
+### The video prompt we ran in Wan 3.0
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/bad-times-ai-trend-cat-wan-3-0-poster-576x1024.jpg" width="46%" alt="The video prompt we ran in Wan 3.0 example">
+
+```
+One continuous single take, fixed camera, vertical video. Recreate the reference video exactly, but the performer is the cat from the reference image instead of the woman: the same pale cream-ginger short-haired cat with yellow-green eyes, standing upright on its hind legs in the modern kitchen from the reference image.
+
+The cat reproduces the woman's full performance frame by frame with the same timing: every body movement, head turn, foreleg gesture, and above all her exaggerated facial acting, wide eyes, frowns, raised brows and mouth shapes, lip-syncing to the reference audio as if arguing with the camera. Very expressive, animated cat face with clear mouth articulation on every syllable.
+
+The cat keeps real cat anatomy: furry forelegs ending in round fluffy cat paws covered in cream fur, never human hands, no bare skin, no fingers, no jewelry, even when it points or pushes a paw toward the lens. No cuts, no text, no captions or labels on screen.
+```
+
+**Tips**
+
+- Attach two or three clear photos of your pet as references and swap our fur description for your own. Fluffy breeds lose their shape when the coat is described vaguely.
+- Match the start frame to the first second of your reference clip, so the video begins without a jump.
+- Wan 3.0 was the only model of the four we tested that kept furry paws and accepted the reference clip. It took up to 15 seconds at a time, so split a longer performance into several runs and test with a 5 second run first.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/bad-times-ai-trend/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ---
 
