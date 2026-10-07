@@ -11,6 +11,24 @@
 
 New to a tool? Compare options in the [AI image generators collection](https://www.aimiracle.ai/ai-collections/ai-image-generator-from-text/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) and the [AI video generators collection](https://www.aimiracle.ai/ai-collections/best-free-ai-video-generators/?utm_source=github&utm_medium=readme&utm_campaign=backlinks).
 
+### Tools that run these prompts
+
+Every prompt works in a general chat model, but a dedicated tool usually gives you more control. These are the ones we link throughout the pack. Tap a logo to open the tool.
+
+**Make the image:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-magnific.png" width="18%" alt="Magnific">](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-artspace.png" width="18%" alt="ArtSpace">](https://www.aimiracle.ai/go/artspace/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-promeai.png" width="18%" alt="PromeAI">](https://www.aimiracle.ai/go/promeai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Magnific](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [ArtSpace](https://www.aimiracle.ai/go/artspace/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [PromeAI](https://www.aimiracle.ai/go/promeai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**Bring it to life as a video:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-hailuo.png" width="18%" alt="Hailuo AI">](https://www.aimiracle.ai/go/hailuo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-deevid.png" width="18%" alt="DeeVid AI">](https://www.aimiracle.ai/go/deevid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-viggle.png" width="18%" alt="Viggle AI">](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Hailuo AI](https://www.aimiracle.ai/go/hailuo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [DeeVid AI](https://www.aimiracle.ai/go/deevid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Viggle AI](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+What each tool is best for is listed in [Tools in This Pack](#tools-in-this-pack) at the end.
+
 \newpage
 
 ## 1. AI Movie Poster
@@ -20,6 +38,12 @@ New to a tool? Compare options in the [AI image generators collection](https://w
 *Turn an ordinary selfie into a cinematic film one-sheet — moody lighting, bold title typography and a critic-quote color grade. Upload a clear photo, paste a prompt, and generate.*
 
 **Works with:** ChatGPT, Google Gemini, or any AI image generator
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ### A24 Indie Drama Poster (the original viral prompt)
 
@@ -63,6 +87,12 @@ Transform this photo into an epic action blockbuster movie poster. Place me fron
 
 **Works with:** ChatGPT, Google Gemini / Nano Banana
 
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### The Original Caricature Prompt
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/chatgpt-caricature-prompt-1-936x1024.jpg" width="46%" alt="The Original Caricature Prompt example">
@@ -105,6 +135,12 @@ Exaggerate features of a chef with giant kitchen tools, playful cartoonish style
 
 **Works with:** Google Gemini (Nano Banana)
 
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### White polka-dot vintage saree
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/vintage-saree-ai-prompt-1-765x1024.jpg" width="46%" alt="White polka-dot vintage saree example">
@@ -146,6 +182,12 @@ Recreate the iconic 1990s Bollywood cinema heroine look. Keep the face completel
 *Turn a photo into a soft, handcrafted Pinterest-style moodboard — layered cutouts, paper textures, bows and handwritten notes around your face. These prompts are long by design; paste the whole block.*
 
 **Works with:** Google Gemini (Nano Banana), ChatGPT
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ### Feminine Moodboard
 
@@ -237,6 +279,12 @@ NEGATIVE PROMPT: cluttered layout, harsh lighting, plastic skin, exaggerated fil
 
 **Works with:** ChatGPT, Google Gemini
 
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### Collectible Toy in Retail Packaging
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/ai-action-figure-prompt-toy-765x1024.jpg" width="46%" alt="Collectible Toy in Retail Packaging example">
@@ -279,6 +327,12 @@ Turn the person in this photo into an adorable Chibi-style figure with a big hea
 
 **Works with:** Google Gemini (Nano Banana), ChatGPT
 
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### Classic 90s disposable camera
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/disposable-camera-90s-look-1024x572.jpg" width="46%" alt="Classic 90s disposable camera example">
@@ -320,6 +374,12 @@ Make this photo look like a candid party shot taken on a cheap disposable camera
 *Drop yourself into another decade — rainy 1986 Tokyo, foggy 1890 London or a neon 1970s disco — while keeping your face intact.*
 
 **Works with:** Google Gemini, ChatGPT
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ### Rainy 1986 Tokyo
 
@@ -369,6 +429,12 @@ Animate the scene with gentle camera motion, falling rain and flickering neon, w
 
 **Works with:** ChatGPT, Google Gemini  -  upload TWO photos (one childhood, one recent)
 
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### Hug your younger self
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/meet-your-younger-self-ai-prompt-1024x572.jpg" width="46%" alt="Hug your younger self example">
@@ -410,6 +476,12 @@ Create a realistic outdoor scene where my adult self sits on a park bench talkin
 *Look like a broadcast camera just found you in the stands — blurry fans, scoreboard lights and a candid, caught-on-TV feel. You never left the couch.*
 
 **Works with:** Google Gemini, ChatGPT
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ### Original viral prompt (British football)
 
@@ -459,6 +531,12 @@ Make realistic movie with great atmosphere
 
 **Works with:** GPT Image 2.0 (ChatGPT), Midjourney, Gemini
 
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### New York (the original)
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/ai-travel-poster-prompt-new-york-572x1024.jpeg" width="46%" alt="New York (the original) example">
@@ -507,6 +585,12 @@ slow timelapse, rain is falling and night and lights turning on
 
 **Works with:** Google Gemini
 
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pippit.png" width="18%" alt="Pippit">](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pictory.png" width="18%" alt="Pictory">](https://www.aimiracle.ai/go/pictory/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-deepfakesweb.png" width="18%" alt="Deepfakes Web">](https://www.aimiracle.ai/go/deepfakesweb/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pippit](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pictory](https://www.aimiracle.ai/go/pictory/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Deepfakes Web](https://www.aimiracle.ai/go/deepfakesweb/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### Chucky
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/05/chuky-573x1024.png" width="46%" alt="Chucky example">
@@ -549,6 +633,12 @@ Create a photo of me as a cheerleader in a red cheerleading outfit in the school
 
 **Works with:** Midjourney, Leonardo.ai, DALL-E 3, Stable Diffusion, Canva Magic Media
 
+**Generate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-magnific.png" width="18%" alt="Magnific">](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-artspace.png" width="18%" alt="ArtSpace">](https://www.aimiracle.ai/go/artspace/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-promeai.png" width="18%" alt="PromeAI">](https://www.aimiracle.ai/go/promeai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Magnific](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [ArtSpace](https://www.aimiracle.ai/go/artspace/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [PromeAI](https://www.aimiracle.ai/go/promeai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### Ghibli-style portrait (from your photo)
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2025/10/portrait.jpg" width="46%" alt="Ghibli-style portrait (from your photo) example">
@@ -590,6 +680,12 @@ A peaceful village at sunrise surrounded by misty mountains, glowing rooftops, a
 *Pose next to any star as if you snapped a real Polaroid together - upload a selfie and your idol’s photo, then let the AI blend both faces into one nostalgic, flash-lit frame.*
 
 **Works with:** ChatGPT, Google Gemini
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ### Polaroid with your idol
 
@@ -661,6 +757,12 @@ Change the background behind those two people with white curtains.
 
 **Works with:** ChatGPT, Google Gemini
 
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pippit.png" width="18%" alt="Pippit">](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pictory.png" width="18%" alt="Pictory">](https://www.aimiracle.ai/go/pictory/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-deepfakesweb.png" width="18%" alt="Deepfakes Web">](https://www.aimiracle.ai/go/deepfakesweb/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pippit](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pictory](https://www.aimiracle.ai/go/pictory/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Deepfakes Web](https://www.aimiracle.ai/go/deepfakesweb/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### Turn yourself into a 3D Pixar character
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/06/pixar-ai-prompt-3d-character-765x1024.jpg" width="46%" alt="Turn yourself into a 3D Pixar character example">
@@ -725,6 +827,12 @@ Cinematic Pixar-style lighting, gentle blinking and smiles, and keep every face 
 
 **Works with:** ChatGPT, Google Gemini
 
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-revid.png" width="18%" alt="Revid.ai">](https://www.aimiracle.ai/go/revid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pippit.png" width="18%" alt="Pippit">](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pictory.png" width="18%" alt="Pictory">](https://www.aimiracle.ai/go/pictory/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-deepfakesweb.png" width="18%" alt="Deepfakes Web">](https://www.aimiracle.ai/go/deepfakesweb/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Revid.ai](https://www.aimiracle.ai/go/revid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pippit](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pictory](https://www.aimiracle.ai/go/pictory/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Deepfakes Web](https://www.aimiracle.ai/go/deepfakesweb/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### The Soulmate Dog Portrait
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/07/ai-dog-soulmate-portrait-802x1024.jpg" width="46%" alt="The Soulmate Dog Portrait example">
@@ -770,6 +878,12 @@ Your dog portrayed as a Greek god on Mount Olympus, dramatic clouds, divine gold
 *Turn a normal selfie into a grainy early-2000s camcorder memory, complete with timestamps, flash glare, and VHS distortion.*
 
 **Works with:** ChatGPT, Google Gemini
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ### The Original Y2K Camcorder Prompt
 
@@ -826,6 +940,12 @@ Do not change my face.
 *Upload a clear photo and let the AI rebuild you as a soft, stitched plushie while keeping your features recognizable.*
 
 **Works with:** ChatGPT, Google Gemini
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-revid.png" width="18%" alt="Revid.ai">](https://www.aimiracle.ai/go/revid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pippit.png" width="18%" alt="Pippit">](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Revid.ai](https://www.aimiracle.ai/go/revid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pippit](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ### The Classic Plush Toy
 
@@ -894,6 +1014,12 @@ Cute, collectible, photorealistic plush look. Centered close-up, 1080x1080.
 *Upload one clear photo and turn it into a Bal Krishna, Radha Rani or Makhan Chor festival portrait, with the outfit, jewellery and Vrindavan backdrop rebuilt around your own face. The couple and Yashoda prompts take two photos.*
 
 **Works with:** Google Gemini (Nano Banana), ChatGPT
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ### Turn your child's photo into Little Krishna
 
@@ -1009,6 +1135,12 @@ Keep the face from my uploaded photo unchanged. High resolution, poster composit
 
 **Works with:** ChatGPT, Google Gemini, or any AI image generator
 
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
 ### The 1985 Family Album Photo
 
 <img src="https://www.aimiracle.ai/wp-content/uploads/2026/09/1980s-family-album-ai-photo-765x1024.jpg" width="46%" alt="The 1985 Family Album Photo example">
@@ -1068,6 +1200,12 @@ Shoot it on 35mm colour film with rich saturated colour, deep blacks, visible gr
 *One clear selfie becomes a chaniya choli twirl, a dandiya raas action shot or a devotional Durga Puja portrait, with the outfit, the jewellery and the garba ground rebuilt around your own face. Nine looks cover the whole run of the nine nights. The couple prompt takes two photos.*
 
 **Works with:** Google Gemini (Nano Banana), ChatGPT
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ### The chaniya choli garba portrait
 
@@ -1211,7 +1349,13 @@ Photorealistic with a warm poster finish, rich reds, golds and greens, 3:4 verti
 
 *Your cat or dog argues with the camera over Bad Times by Imael Angel, copying a human lip-sync beat for beat. The recipe has two parts: a start frame of your pet in the opening pose, then a video model that animates it from a reference clip. The first three prompts build the start frame in 9:16, and the fourth is the video prompt.*
 
-**Works with:** any AI image generator for the start frame, then Wan 3.0 (on Magnific or Pollo AI) for the video
+**Works with:** any AI image generator for the start frame, then Wan 3.0 on [Magnific](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) or [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) for the video
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-magnific.png" width="18%" alt="Magnific">](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-deevid.png" width="18%" alt="DeeVid AI">](https://www.aimiracle.ai/go/deevid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-hailuo.png" width="18%" alt="Hailuo AI">](https://www.aimiracle.ai/go/hailuo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-viggle.png" width="18%" alt="Viggle AI">](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Magnific](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [DeeVid AI](https://www.aimiracle.ai/go/deevid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Hailuo AI](https://www.aimiracle.ai/go/hailuo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Viggle AI](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ### Standing cat in the kitchen
 
@@ -1262,6 +1406,108 @@ The cat keeps real cat anatomy: furry forelegs ending in round fluffy cat paws c
 - Wan 3.0 was the only model of the four we tested that kept furry paws and accepted the reference clip. It took up to 15 seconds at a time, so split a longer performance into several runs and test with a 5 second run first.
 
 [Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/bad-times-ai-trend/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
+\newpage
+
+## Tools in This Pack
+
+Every tool linked in this pack, in one place. Tap a logo or a name to open it. Some of these are affiliate links: if you sign up through one, AIMiracle may earn a commission at no extra cost to you. It does not change which tools we recommend.
+
+### Image tools
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-magnific.png" width="30%" alt="Magnific">](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[Magnific](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. One credit balance covers image models and video models, including Wan 3.0, Kling and Seedance. We built the Bad Times pet lip-sync here from start frame to finished clip, so it is the one place where you can run every step of a trend without switching apps.
+
+*Type: Image and video. Linked in trends 12, 21.* [Try Magnific](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-artspace.png" width="30%" alt="ArtSpace">](https://www.aimiracle.ai/go/artspace/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[ArtSpace](https://www.aimiracle.ai/go/artspace/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. A text to image platform for digital art. Pick it for the stylized trends in this pack, such as posters, illustration looks and Ghibli style scenes, when you want to describe a picture from scratch.
+
+*Type: Image. Linked in trend 12.* [Try ArtSpace](https://www.aimiracle.ai/go/artspace/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-promeai.png" width="30%" alt="PromeAI">](https://www.aimiracle.ai/go/promeai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[PromeAI](https://www.aimiracle.ai/go/promeai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. An image generator with design tools on top, including sketch rendering and image variations. Useful when a result is close and you want to restyle or vary it without rewriting the whole prompt.
+
+*Type: Image. Linked in trend 12.* [Try PromeAI](https://www.aimiracle.ai/go/promeai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+### Video tools
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="30%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Image to video and text to video. Upload any portrait you made from this pack and describe the motion. It is our default pick for cinematic movement from a single still.
+
+*Type: Video. Linked in trends 1-11, 13-21.* [Try Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="30%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. A video hub that hosts several models in one account, Wan 3.0 among them, plus ready made effect templates. Good for testing the same start frame on more than one model.
+
+*Type: Video. Linked in trends 1-11, 13-21.* [Try Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-hailuo.png" width="30%" alt="Hailuo AI">](https://www.aimiracle.ai/go/hailuo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[Hailuo AI](https://www.aimiracle.ai/go/hailuo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Image to video with expressive faces and body motion. Try it when a clip needs acting, not only a slow camera move.
+
+*Type: Video. Linked in trend 21.* [Try Hailuo AI](https://www.aimiracle.ai/go/hailuo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-deevid.png" width="30%" alt="DeeVid AI">](https://www.aimiracle.ai/go/deevid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[DeeVid AI](https://www.aimiracle.ai/go/deevid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Image to video and text to video in a simple interface. A quick way to turn a finished AI photo into a short clip.
+
+*Type: Video. Linked in trend 21.* [Try DeeVid AI](https://www.aimiracle.ai/go/deevid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-viggle.png" width="30%" alt="Viggle AI">](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[Viggle AI](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Motion transfer. It takes a character from a photo and makes it follow the movement in a reference clip, which is the core of dance and lip-sync trends.
+
+*Type: Video. Linked in trend 21.* [Try Viggle AI](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="30%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. AI avatar video. Upload a portrait, add a script and it speaks to the camera. Use it to make any character from this pack talk.
+
+*Type: Video. Linked in trends 1-11, 13-20.* [Try HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="30%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Text to video with AI voices. Drop in a set of images, add a script and get a narrated video, handy for before and after reels.
+
+*Type: Video. Linked in trends 1-11, 13-20.* [Try Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-revid.png" width="30%" alt="Revid.ai">](https://www.aimiracle.ai/go/revid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[Revid.ai](https://www.aimiracle.ai/go/revid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. A short form video generator built for TikTok, Reels and Shorts. It turns a few images or an idea into a captioned vertical clip.
+
+*Type: Video. Linked in trends 15, 17.* [Try Revid.ai](https://www.aimiracle.ai/go/revid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pippit.png" width="30%" alt="Pippit">](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[Pippit](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. A video maker from the CapCut team with AI avatars and link to video. Good for turning images into a promo style clip.
+
+*Type: Video. Linked in trends 11, 14-15, 17.* [Try Pippit](https://www.aimiracle.ai/go/pippit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pictory.png" width="30%" alt="Pictory">](https://www.aimiracle.ai/go/pictory/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[Pictory](https://www.aimiracle.ai/go/pictory/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Turns a script or article into a video with stock footage, captions and voiceover. Useful when the image is the hook and you need a longer video around it.
+
+*Type: Video. Linked in trends 11, 14-15.* [Try Pictory](https://www.aimiracle.ai/go/pictory/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="30%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Cuts long videos into short captioned clips. Use it after you have recorded a longer walkthrough of your results.
+
+*Type: Video. Linked in trends 1-9, 11, 13-20.* [Try OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-deepfakesweb.png" width="30%" alt="Deepfakes Web">](https://www.aimiracle.ai/go/deepfakesweb/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[Deepfakes Web](https://www.aimiracle.ai/go/deepfakesweb/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Cloud face swap for video. You upload a source face and a target clip and it renders the swap online. Use it only with faces you have permission to use.
+
+*Type: Video. Linked in trends 11, 14-15.* [Try Deepfakes Web](https://www.aimiracle.ai/go/deepfakesweb/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 ---
 
