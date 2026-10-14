@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-38-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-40-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -47,6 +47,8 @@
 - [AI Homework Helpers](#ai-homework-helpers)
 - [AI Note Takers](#ai-note-takers)
 - [AI Girlfriend Apps](#ai-girlfriend-apps)
+- [AI Game Makers](#ai-game-makers)
+- [AI Dungeon Alternatives](#ai-dungeon-alternatives)
 
 ---
 
@@ -763,6 +765,42 @@ The best AI girlfriend app depends on what you want her to do: consistent pictur
 
 ---
 
+## AI Game Makers
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/best-ai-game-maker-2026.jpg" width="800" alt="AI Game Makers">
+
+Every AI game maker promises a playable game from one sentence, but what comes back differs a lot. Some tools hand you real code you can keep and extend, some wrap the game in an app with logins and leaderboards, and some only make the 3D characters and props you drop into an engine. We sorted nine of them by what you actually get, how far the free tier goes and whether they handle 2D, 3D or Roblox. See the full [Best AI Game Maker (2026)](https://www.aimiracle.ai/ai-collections/best-ai-game-maker/) collection.
+
+- [Replit](https://www.aimiracle.ai/go/replit/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Builds the game as a real code project you can extend, host and hand to any developer
+- [Lovable](https://www.aimiracle.ai/go/lovable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Polished web games with real menus and score screens from the first prompt
+- [Base44](https://www.aimiracle.ai/go/base44/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The quickest route to a casual game with player accounts and a live leaderboard
+- [Runable](https://www.aimiracle.ai/go/runable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - An AI game generator that refills 1,500 free credits every day
+- [Meshy](https://www.aimiracle.ai/go/meshy/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Rigged, animated 3D game characters from one sentence, ready for your engine
+- [Rosebud AI](https://rosebud.ai/) - Code, art and sound for a game generated in one place
+- [Astrocade](https://www.astrocade.com/) - Free to create and play, with an audience for your first game on day one
+- [GDevelop](https://gdevelop.io/) - No-code AI inside a full engine that exports to Steam and mobile
+- [Roblox Assistant](https://create.roblox.com/docs/assistant/guide) - The official AI inside Roblox Studio that knows the engine and the asset store
+
+---
+
+## AI Dungeon Alternatives
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/ai-dungeon-alternatives.jpg" width="800" alt="AI Dungeon Alternatives">
+
+AI Dungeon started the AI text adventure genre, and most people who leave it want one of three things: a longer memory, a lower price or fewer limits. The alternatives split into story tools that act like a game master, free front ends you run yourself, and character chat apps built for roleplay. We matched each pick to the reason people switch and noted free tiers and published prices. See the full [Best AI Dungeon Alternatives (2026)](https://www.aimiracle.ai/ai-collections/ai-dungeon-alternatives/) collection.
+
+- [NovelAI](https://novelai.net/) - A Text Adventure mode with the best lore tools and unlimited turns for a flat monthly price
+- [DreamGen](https://dreamgen.com/) - Multi-character scenarios that follow your plot directions closely
+- [Infinite Worlds](https://infiniteworlds.app/) - An illustrated browser adventure where your actions can fail, like a real game
+- [SillyTavern](https://sillytavern.app/) - Free, runs on your own machine and works with almost any model
+- [KoboldAI](https://github.com/LostRuins/koboldcpp) - Keeps working offline with no internet and no account
+- [SpicyChat](https://www.aimiracle.ai/go/spicychat/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Unlimited free messages for NSFW roleplay
+- [CrushOn AI](https://www.aimiracle.ai/go/crushon/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The cheapest paid route to unfiltered roleplay with larger memory, from $5.99 a month
+- [Candy AI](https://www.aimiracle.ai/go/candy/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - A visual companion with the most polished images, voice and video
+- [OurDream AI](https://www.aimiracle.ai/go/ourdream/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Voice-led roleplay with memory that lasts between sessions
+
+---
+
 ## About AIMiracle MAG
 
 **[AIMiracle MAG](https://aimiracle.ai)** is an independent platform delivering daily AI news, tool discoveries, and practical tutorials. Our mission is to make AI accessible to everyone — from developers and designers to entrepreneurs and creators.
@@ -770,5 +808,5 @@ The best AI girlfriend app depends on what you want her to do: consistent pictur
 - Website: [aimiracle.ai](https://aimiracle.ai)
 - Contact: aimiraclemag@gmail.com
 
-*Updated: September 2026*
+*Updated: October 2026*
 
