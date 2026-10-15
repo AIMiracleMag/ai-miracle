@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-40-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-41-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -49,6 +49,7 @@
 - [AI Girlfriend Apps](#ai-girlfriend-apps)
 - [AI Game Makers](#ai-game-makers)
 - [AI Dungeon Alternatives](#ai-dungeon-alternatives)
+- [SpicyChat Alternatives](#spicychat-alternatives)
 
 ---
 
@@ -798,6 +799,25 @@ AI Dungeon started the AI text adventure genre, and most people who leave it wan
 - [CrushOn AI](https://www.aimiracle.ai/go/crushon/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The cheapest paid route to unfiltered roleplay with larger memory, from $5.99 a month
 - [Candy AI](https://www.aimiracle.ai/go/candy/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - A visual companion with the most polished images, voice and video
 - [OurDream AI](https://www.aimiracle.ai/go/ourdream/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Voice-led roleplay with memory that lasts between sessions
+
+---
+
+## SpicyChat Alternatives
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/spicychat-alternatives.jpg" width="800" alt="SpicyChat Alternatives">
+
+SpicyChat has unlimited free messages and a huge library of community bots, so people rarely leave because it is bad. They leave over four specific problems: a 4K free memory that forgets after about 20 messages, moderation that changes without notice, the September 2026 price rise, and the missing iPhone app. We matched each problem to the platform that fixes it best, from cheap long-memory plans and voice-first companions to free apps and a front end nobody can moderate. Prices come from each vendor's own page at the time of writing. See the full [Best SpicyChat Alternatives (2026)](https://www.aimiracle.ai/ai-collections/spicychat-alternatives/) collection.
+
+- [Candy AI](https://www.aimiracle.ai/go/candy/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Characters with a consistent face, voice and images plus unlimited chat for less than SpicyChat's top tiers
+- [CrushOn AI](https://www.aimiracle.ai/go/crushon/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - The closest like-for-like swap, with 16K memory on a $5.99 plan
+- [OurDream](https://www.aimiracle.ai/go/ourdream/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Natural voice included in Premium instead of a top-tier upgrade
+- [Muah AI](https://www.aimiracle.ai/go/muahai/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Uncensored companion chat with unlimited messages for $69.99 a year
+- [Janitor AI](https://janitorai.com/) - The best free option, with a big character library and more than twice SpicyChat's free context
+- [Kindroid](https://kindroid.ai/) - Long-term memory and a real iPhone app
+- [Chai](https://www.chai-research.com/) - A filtered chat app like SpicyChat for iPhone
+- [PolyBuzz](https://www.polybuzz.ai/) - A polished mobile character chat app with a filter
+- [Talkie](https://www.talkie-ai.com/) - Voice-first character chat on a budget
+- [SillyTavern](https://sillytavern.app/) - A free front end you run yourself, where nobody moderates but you
 
 ---
 
