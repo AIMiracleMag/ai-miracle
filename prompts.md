@@ -1,6 +1,6 @@
 # AI Image Prompt Pack
 
-**79 copy-paste prompts to turn your selfies into viral AI art.** Twenty-one of the biggest AI photo trends of 2026 - each with the exact prompts, the tools that run them, and pro tips.
+**88 copy-paste prompts to turn your selfies into viral AI art.** Twenty-two of the biggest AI photo trends of 2026 - each with the exact prompts, the tools that run them, and pro tips.
 
 ## How to use this pack
 
@@ -1409,6 +1409,157 @@ The cat keeps real cat anatomy: furry forelegs ending in round fluffy cat paws c
 
 ---
 
+## 22. Diwali Festival Portraits
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/diwali-prompt-for-gemini.jpg" width="800" alt="Diwali Festival Portraits">
+
+*One clear selfie becomes a silk saree diya portrait, a kurta and sparkler shot on the terrace or a calm Lakshmi Puja scene, with the clothes, the lamps and the warm festival glow rebuilt around your own face. There are looks for a girl, a boy, a baby, a couple and the whole family, plus a greeting poster to send on the day. The couple and family prompts take one photo per person.*
+
+**Works with:** Google Gemini (Nano Banana), ChatGPT
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="18%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="18%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-opusclip.png" width="18%" alt="OpusClip">](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+### The silk saree diya portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/diwali-prompt-silk-saree-diya-765x1024.jpg" width="46%" alt="The silk saree diya portrait example">
+
+```
+Using the uploaded photo, create an elegant festive portrait of the same woman on Diwali night.
+
+Dress her in a {colour} Banarasi silk saree with a heavy gold zari border and a matching blouse, worn in a neat traditional drape. Add gold temple jewellery, jhumka earrings, glass bangles and a small bindi.
+
+She sits on the steps of a home entrance holding a lit clay diya in both hands, with rows of diyas and marigold garlands glowing behind her. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, warm candlelight on the face, soft bokeh from the lamps, 3:4 vertical, high detail.
+```
+
+### The kurta sparkler portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/diwali-prompt-kurta-sparkler-765x1024.jpg" width="46%" alt="The kurta sparkler portrait example">
+
+```
+Using the uploaded photo, create a festive portrait of the same man celebrating Diwali at night.
+
+Dress him in a {colour} silk kurta with fine embroidery at the collar, a light Nehru jacket on top and churidar trousers. Add a simple watch and leather mojari shoes.
+
+He stands on a terrace holding a lit sparkler, with strings of fairy lights, diyas along the parapet and a few fireworks in the dark sky behind him. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, sparkler light on the face, night sky with soft bokeh, 3:4 vertical, high detail.
+```
+
+### The lehenga rangoli portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/diwali-prompt-lehenga-rangoli-765x1024.jpg" width="46%" alt="The lehenga rangoli portrait example">
+
+```
+Using the uploaded photo, create a festive full length portrait of the same woman beside a rangoli on Diwali.
+
+Dress her in a {colour} embroidered lehenga with gold thread work, a fitted blouse and a sheer dupatta over one shoulder. Add a maang tikka, layered gold necklaces and mehndi on her hands.
+
+She kneels next to a large, colourful rangoli on a courtyard floor, placing a small diya at its centre, with lamps and marigolds all around. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, warm evening light, rich colour, 3:4 vertical, high detail.
+```
+
+### The bandhgala lantern portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/diwali-prompt-bandhgala-lantern-765x1024.jpg" width="46%" alt="The bandhgala lantern portrait example">
+
+```
+Using the uploaded photo, create a refined festive portrait of the same man on Diwali evening.
+
+Dress him in a {colour} bandhgala jacket with brass buttons over a white kurta, with a folded pocket square. Keep the look sharp and formal.
+
+He stands on a balcony decorated with paper lanterns, fairy lights and a row of diyas on the railing, with the lights of the city glowing below. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, warm lantern light mixed with cool evening blue, 3:4 vertical, high detail.
+```
+
+### The little diya lighter
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/diwali-prompt-little-diya-lighter-765x1024.jpg" width="46%" alt="The little diya lighter example">
+
+```
+Using the uploaded photo, create a warm festive portrait of the same child on Diwali night.
+
+Dress the {girl or boy} in small festive clothes: for a girl a silk pavadai or lehenga with light gold jewellery, for a boy a little silk kurta with a Nehru jacket.
+
+The child carefully holds a lit clay diya with both hands, surrounded by marigold petals, rangoli and soft lamp light. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, gentle warm light, natural child proportions, 3:4 vertical, high detail.
+```
+
+### The sparkler couple portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/diwali-prompt-couple-sparklers-765x1024.jpg" width="46%" alt="The sparkler couple portrait example">
+
+```
+Using the two uploaded photos, create a festive portrait of the same couple celebrating Diwali together at night.
+
+Dress the woman in a {colour} silk saree with gold jewellery, and the man in a matching silk kurta with a Nehru jacket. They stand close, each holding a lit sparkler, smiling at each other.
+
+Place them in a courtyard lined with diyas and marigold garlands, with fairy lights overhead. Keep the face, skin tone and hair of BOTH people from my uploaded photos completely unchanged, and do not blend their features. If one of the uploaded photos is black and white, infer a natural skin tone for that person and keep every other feature exactly as photographed.
+
+Photorealistic, sparkler and lamp light on both faces, both faces sharp, 3:4 vertical, high detail.
+```
+
+### The Diwali family portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/diwali-prompt-family-portrait-765x1024.jpg" width="46%" alt="The Diwali family portrait example">
+
+```
+Using the uploaded photos, create a festive family portrait of the same {number} people celebrating Diwali at home.
+
+Dress everyone in coordinated festive clothes: silk sarees or lehengas for the women, silk kurtas for the men, all in warm gold, maroon and cream tones.
+
+Arrange them together in a living room decorated with diyas, marigold garlands, a rangoli on the floor and a plate of sweets on a low table. Keep the face, skin tone and hair of EVERY person from my uploaded photos completely unchanged, and do not blend their features.
+
+Photorealistic, warm indoor lamp light, every face sharp, 3:4 vertical, high detail.
+```
+
+### The Lakshmi Puja portrait
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/diwali-prompt-lakshmi-puja-765x1024.jpg" width="46%" alt="The Lakshmi Puja portrait example">
+
+```
+Using the uploaded photo, create a respectful devotional portrait of the same woman performing Lakshmi Puja on Diwali.
+
+Dress her in a red and gold silk saree with traditional gold jewellery and a red bindi. She sits before a decorated puja thali with a lit diya, flowers and rice, hands folded in prayer.
+
+A small idol of Goddess Lakshmi sits on a decorated altar softly out of focus behind her. Keep the idol clearly in the background and never blended with her. Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic, warm lamp light, calm and reverent mood, 3:4 vertical, high detail.
+```
+
+### A Happy Diwali greeting poster
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/diwali-prompt-greeting-poster-765x1024.jpg" width="46%" alt="A Happy Diwali greeting poster example">
+
+```
+Using the uploaded photo, create a festive Happy Diwali greeting image with the same person as the subject.
+
+Place them in festive clothing against a background of glowing diyas, hanging lanterns, marigold garlands and soft golden bokeh. Leave clear empty space along the top of the frame where a greeting would be written, but do not write any text or lettering at all.
+
+Keep the face, skin tone and hair from my uploaded photo completely unchanged.
+
+Photorealistic with a warm poster finish, deep golds, reds and purples, 3:4 vertical, high detail.
+```
+
+**Tips**
+
+- Keep it to one face wherever you can. Every extra person is another likeness the model can lose, which is why the couple and family prompts ask for separate uploads.
+- Name the fabric and the jewellery. Banarasi silk, zari, bandhgala, jhumka and temple gold are words the model knows, while traditional or ethnic produce a costume from nowhere in particular.
+- Ask for warm, low light. Diwali is lit by diyas, sparklers and fairy lights, and studio light is what makes a festival portrait look pasted together.
+- Keep the idol in the background. The Lakshmi Puja prompt is written that way on purpose, so dress yourself for the puja but never blend your face with the goddess.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/diwali-prompt-for-gemini/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
 \newpage
 
 ## Tools in This Pack
@@ -1441,13 +1592,13 @@ Every tool linked in this pack, in one place. Tap a logo or a name to open it. S
 
 **[Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Image to video and text to video. Upload any portrait you made from this pack and describe the motion. It is our default pick for cinematic movement from a single still.
 
-*Type: Video. Linked in trends 1-11, 13-21.* [Try Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+*Type: Video. Linked in trends 1-11, 13-22.* [Try Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="30%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 **[Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. A video hub that hosts several models in one account, Wan 3.0 among them, plus ready made effect templates. Good for testing the same start frame on more than one model.
 
-*Type: Video. Linked in trends 1-11, 13-21.* [Try Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+*Type: Video. Linked in trends 1-11, 13-22.* [Try Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-hailuo.png" width="30%" alt="Hailuo AI">](https://www.aimiracle.ai/go/hailuo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
@@ -1471,13 +1622,13 @@ Every tool linked in this pack, in one place. Tap a logo or a name to open it. S
 
 **[HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. AI avatar video. Upload a portrait, add a script and it speaks to the camera. Use it to make any character from this pack talk.
 
-*Type: Video. Linked in trends 1-11, 13-20.* [Try HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+*Type: Video. Linked in trends 1-11, 13-20, 22.* [Try HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-fliki.png" width="30%" alt="Fliki">](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 **[Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Text to video with AI voices. Drop in a set of images, add a script and get a narrated video, handy for before and after reels.
 
-*Type: Video. Linked in trends 1-11, 13-20.* [Try Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+*Type: Video. Linked in trends 1-11, 13-20, 22.* [Try Fliki](https://www.aimiracle.ai/go/fliki/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-revid.png" width="30%" alt="Revid.ai">](https://www.aimiracle.ai/go/revid/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
@@ -1501,7 +1652,7 @@ Every tool linked in this pack, in one place. Tap a logo or a name to open it. S
 
 **[OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Cuts long videos into short captioned clips. Use it after you have recorded a longer walkthrough of your results.
 
-*Type: Video. Linked in trends 1-9, 11, 13-20.* [Try OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+*Type: Video. Linked in trends 1-9, 11, 13-20, 22.* [Try OpusClip](https://www.aimiracle.ai/go/opusclip/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-deepfakesweb.png" width="30%" alt="Deepfakes Web">](https://www.aimiracle.ai/go/deepfakesweb/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
