@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-41-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-42-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -50,6 +50,7 @@
 - [AI Game Makers](#ai-game-makers)
 - [AI Dungeon Alternatives](#ai-dungeon-alternatives)
 - [SpicyChat Alternatives](#spicychat-alternatives)
+- [AI Ad Generators](#ai-ad-generators)
 
 ---
 
@@ -818,6 +819,24 @@ SpicyChat has unlimited free messages and a huge library of community bots, so p
 - [PolyBuzz](https://www.polybuzz.ai/) - A polished mobile character chat app with a filter
 - [Talkie](https://www.talkie-ai.com/) - Voice-first character chat on a budget
 - [SillyTavern](https://sillytavern.app/) - A free front end you run yourself, where nobody moderates but you
+
+---
+
+## AI Ad Generators
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/10/best-ai-ad-generator.jpg" width="800" alt="AI Ad Generators">
+
+The right AI ad generator depends on the ad you actually need to run. A store that wants twenty TikTok variations by Friday needs a different tool from an agency testing static banners or a brand that wants one cinematic product shot for a launch. So we split the list by job: dedicated ad platforms first, then avatar and editing tools, then the video models and suites behind premium product shots. Prices were checked on each vendor's own page in October 2026. See the full [Best AI Ad Generator in 2026: 9 Tools for Video, UGC and Facebook Ads](https://www.aimiracle.ai/ai-collections/best-ai-ad-generator/) collection.
+
+- [Creatify](https://creatify.ai/) - Batches of video ad variations from a single product URL
+- [Arcads](https://www.aimiracle.ai/go/arcads/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - UGC style ads with realistic AI actors talking to camera
+- [AdCreative.ai](https://www.adcreative.ai/) - On-brand static banners and product shots in every ad size, with conversion scoring
+- [HeyGen](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Spokesperson and explainer ads localized into 175+ languages
+- [Pippit](https://www.pippit.ai/) - The easiest free start for ecommerce video ads, from the team behind CapCut
+- [Canva Grow](https://www.canva.com/ai-ad-generator/) - Facebook and Instagram ads built from your Canva brand kit and launched from Canva
+- [InVideo AI](https://www.aimiracle.ai/go/invideo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Story-driven promo videos from a prompt or script
+- [Kling](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Cinematic product shots animated from a single photo
+- [Magnific](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Every major image and video model in one plan for ad visuals
 
 ---
 
