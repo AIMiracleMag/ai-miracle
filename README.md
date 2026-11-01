@@ -239,6 +239,7 @@ AI tools for real estate agents are transforming how professionals market, analy
 - [Fello](https://www.fello.ai) - AI seller lead nurturing
 - [HouseCanary](https://www.housecanary.com) - AI property valuation
 - [Virtual Staging](https://virtual-staging.com) - AI virtual staging
+- [EmptyRoom AI](https://emptyroomai.com) - AI virtual staging for listing photos
 - [Imagen](https://imagen-ai.com) - AI photo editing for real estate
 
 ---
