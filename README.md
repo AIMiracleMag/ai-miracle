@@ -382,6 +382,7 @@ AI coding tools are transforming how developers write, debug, and ship code. Wha
 - [Blackbox AI](https://www.blackbox.ai) - AI coding with code search
 - [Emergent](https://emergent.sh) - AI full-stack app builder
 - [Antigravity](https://idx.dev) - Google AI coding environment
+- [agent-qa](https://vostride.com) - Natural-language Web, Android and iOS testing via CLI/MCP, with persistent memidex memory and validated self-improvement
 
 ---
 
