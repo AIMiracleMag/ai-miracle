@@ -1,6 +1,6 @@
 # AI Image Prompt Pack
 
-**88 copy-paste prompts to turn your selfies into viral AI art.** Twenty-two of the biggest AI photo trends of 2026 - each with the exact prompts, the tools that run them, and pro tips.
+**91 copy-paste prompts to turn your selfies into viral AI art.** Twenty-three of the biggest AI photo trends of 2026 - each with the exact prompts, the tools that run them, and pro tips.
 
 ## How to use this pack
 
@@ -1560,6 +1560,64 @@ Photorealistic with a warm poster finish, deep golds, reds and purples, 3:4 vert
 
 ---
 
+## 23. Raindance Pet Remix
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/11/raindance-ai-trend.jpg" width="800" alt="Raindance Pet Remix">
+
+*The golden hour pier scene from Raindance by Dave and Tems, recast with your own cat and dog instead of a couple. You need one clear photo per animal and a short reference clip, and the Raindance: Pet Duo clip on PixVerse fills in the video and its audio for you. The first two prompts make clean 9:16 reference images, and the third is the video prompt that made our clip with a Pomeranian and a cream tabby.*
+
+**Works with:** any AI image generator for the reference images, then Seedance 2.5 on [PixVerse](https://www.aimiracle.ai/go/pixverse/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) for the video
+
+**Animate it with:**
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pixverse.png" width="18%" alt="PixVerse">](https://www.aimiracle.ai/go/pixverse/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-kling.png" width="18%" alt="Kling AI">](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="18%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-viggle.png" width="18%" alt="Viggle AI">](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[PixVerse](https://www.aimiracle.ai/go/pixverse/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks), [Viggle AI](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+### Clean cat reference image
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/11/raindance-ai-trend-cat-reference-576x1024.jpg" width="46%" alt="Clean cat reference image example">
+
+```
+Photorealistic vertical smartphone selfie video frame, extreme close-up. The exact same cream-ginger short-haired tabby cat from the reference photos (pale peach-beige fur with faint darker stripes on the forehead, yellow-green eyes, pink nose, long white whiskers), head and upper chest filling the frame like a person recording a selfie video, looking straight into the camera with a serious expression, mouth slightly open as if speaking. Natural cat face and anatomy, no clothes.
+
+Background: plain grey wall of the same modern kitchen, black pendant lamp slightly out of focus at the top right. Soft daylight on the face, sharp focus on the eyes, realistic front phone camera look.
+```
+
+### Dog on the pier reference image
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/11/raindance-ai-trend-pomeranian-pier-reference-576x1024.jpg" width="46%" alt="Dog on the pier reference image example">
+
+```
+Photorealistic vertical smartphone photo, frame it 9:16. The exact same small cream Pomeranian dog from the reference photos (very fluffy pale cream and white coat, big fluffy mane around the face, small rounded fluffy ears, round dark shiny eyes, small black nose, curled fluffy tail) sitting on a weathered wooden pier and looking at the camera, mouth open with the pink tongue just visible. Natural dog face and anatomy, no clothes, no collar.
+
+Background: calm blue-green water and a dark distant shoreline at golden hour, soft warm sunset light. Sharp focus on the eyes, realistic phone camera look.
+```
+
+### The exact Seedance 2.5 prompt we ran
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/11/raindance-ai-trend-pomeranian-cat-poster-576x1024.jpg" width="46%" alt="The exact Seedance 2.5 prompt we ran example">
+
+```
+Recast this video: @video1 It has exactly two animals, a golden retriever dog and a black cat. The golden retriever is played by the dog in @image2 and the black cat is played by the cat in @image1 in every shot, wide or close.
+
+Shots, cuts, timing, camera moves, poses, singing mouth movements, paw gestures and locations stay the same as the reference video. The two animals keep the fur color and face of their images for the whole clip.
+
+Keep the original soundtrack of the reference video unchanged and in sync from the start.
+```
+
+**Tips**
+
+- Keep the golden retriever and the black cat in the video prompt, even if your animals look nothing like them. They tell the model which role is which, and your images then decide who plays it.
+- Use an outdoor photo of your pet. A room in the reference image can get pulled into the pier scene, while a pier shot fixes that.
+- Check the audio slot before you render. Switching the form to Kling 4.0 removed the reference audio for us, and Seedance then invented a different song. If that happens, lay the original track back on top in any editor.
+- Short prompts won here. Our long prompts full of negatives did worse than this one, which only names the animals in the source clip and says who plays whom.
+- The dog prompt is a shortcut we wrote afterwards. Our own pier image came from a frame of an earlier test, so this is the one prompt here we have not run ourselves.
+
+[Read the full guide on AIMiracle](https://www.aimiracle.ai/how-to/raindance-ai-trend/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+---
+
 \newpage
 
 ## Tools in This Pack
@@ -1592,13 +1650,13 @@ Every tool linked in this pack, in one place. Tap a logo or a name to open it. S
 
 **[Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Image to video and text to video. Upload any portrait you made from this pack and describe the motion. It is our default pick for cinematic movement from a single still.
 
-*Type: Video. Linked in trends 1-11, 13-22.* [Try Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+*Type: Video. Linked in trends 1-11, 13-23.* [Try Kling AI](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pollo.png" width="30%" alt="Pollo AI">](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 **[Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. A video hub that hosts several models in one account, Wan 3.0 among them, plus ready made effect templates. Good for testing the same start frame on more than one model.
 
-*Type: Video. Linked in trends 1-11, 13-22.* [Try Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+*Type: Video. Linked in trends 1-11, 13-23.* [Try Pollo AI](https://www.aimiracle.ai/go/pollo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-hailuo.png" width="30%" alt="Hailuo AI">](https://www.aimiracle.ai/go/hailuo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
@@ -1616,7 +1674,13 @@ Every tool linked in this pack, in one place. Tap a logo or a name to open it. S
 
 **[Viggle AI](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. Motion transfer. It takes a character from a photo and makes it follow the movement in a reference clip, which is the core of dance and lip-sync trends.
 
-*Type: Video. Linked in trend 21.* [Try Viggle AI](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+*Type: Video. Linked in trends 21, 23.* [Try Viggle AI](https://www.aimiracle.ai/go/viggle/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+[<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-pixverse.png" width="30%" alt="PixVerse">](https://www.aimiracle.ai/go/pixverse/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
+
+**[PixVerse](https://www.aimiracle.ai/go/pixverse/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)**. A video platform with several models under one credit balance, Seedance 2.5 and Wan 3.0 among them. Its reference form loads a community clip with its audio and lets you swap in your own images, which is how we recast the Raindance pier scene with a dog and a cat.
+
+*Type: Video. Linked in trend 23.* [Try PixVerse](https://www.aimiracle.ai/go/pixverse/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
 [<img src="https://raw.githubusercontent.com/AIMiracleMag/ai-miracle/main/assets/logos/aff-heygen.png" width="30%" alt="HeyGen">](https://www.aimiracle.ai/go/heygen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks)
 
