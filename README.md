@@ -234,6 +234,7 @@ AI tools for real estate agents are transforming how professionals market, analy
 - [Collov](https://collov.ai) - AI virtual staging
 - [Real Geeks](https://www.realgeeks.com) - AI lead generation
 - [ReimagineHome](https://www.aimiracle.ai/go/reimaginehome/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - AI staging visualization
+- [MotionCasa](https://motioncasa.com/) - AI real estate videos from listing photos.
 - [PhotoAIVideo](https://photoaivideo.com) - AI property photo enhancement
 - [Ylopo](https://www.ylopo.com) - AI real estate marketing
 - [Fello](https://www.fello.ai) - AI seller lead nurturing
