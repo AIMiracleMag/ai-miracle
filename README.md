@@ -3,7 +3,7 @@
 > A curated list of the best AI tools, organized by category — maintained by [AIMiracle MAG](https://aimiracle.ai), your daily source for AI news, tool discoveries & tutorials.
 
 [![Website](https://img.shields.io/badge/website-aimiracle.ai-blue?style=flat-square)](https://aimiracle.ai)
-[![Collections](https://img.shields.io/badge/collections-42-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
+[![Collections](https://img.shields.io/badge/collections-43-brightgreen?style=flat-square)](https://www.aimiracle.ai/ai-collections/)
 
 ---
 
@@ -51,6 +51,7 @@
 - [AI Dungeon Alternatives](#ai-dungeon-alternatives)
 - [SpicyChat Alternatives](#spicychat-alternatives)
 - [AI Ad Generators](#ai-ad-generators)
+- [AI Presentation Makers](#ai-presentation-makers)
 
 ---
 
@@ -837,6 +838,26 @@ The right AI ad generator depends on the ad you actually need to run. A store th
 - [InVideo AI](https://www.aimiracle.ai/go/invideo/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Story-driven promo videos from a prompt or script
 - [Kling](https://www.aimiracle.ai/go/kling/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Cinematic product shots animated from a single photo
 - [Magnific](https://www.aimiracle.ai/go/magnific/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Every major image and video model in one plan for ad visuals
+
+---
+
+## AI Presentation Makers
+
+<img src="https://www.aimiracle.ai/wp-content/uploads/2026/11/best-ai-presentation-maker-hd-scaled.jpg" width="800" alt="AI Presentation Makers">
+
+The right AI presentation maker depends on where the deck ends up. A founder sending a pitch deck to investors needs something different from a teacher building class slides on Sunday night or a sales rep who wants to know whether the client opened the proposal. So the list covers the whole range: tools that back every slide with sources, tools that track who read your deck, AI inside PowerPoint and design-first editors. Prices were checked on each vendor's own page in November 2026, along with one detail most roundups skip: whether the free plan exports a real PowerPoint file. See the full [Best AI Presentation Maker in 2026: Free and Paid Tools Compared](https://www.aimiracle.ai/ai-collections/best-ai-presentation-maker/) collection.
+
+- [Gixo Lumen](https://www.aimiracle.ai/go/gixo-lumen/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Investor and board decks with cited sources and a Sources slide on every export
+- [Runable](https://www.aimiracle.ai/go/runable/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - An AI agent that builds your slides and also the pages and posts around them
+- [Decktopus](https://www.aimiracle.ai/go/decktopus/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Branded decks from one prompt, plus a link that shows who opened them
+- [Storydoc](https://www.aimiracle.ai/go/storydoc/?utm_source=github&utm_medium=readme&utm_campaign=backlinks) - Interactive web decks with analytics on opens, scroll depth and drop-off
+- [Gamma](https://gamma.app/) - The most generous free plan, with PowerPoint and Google Slides export
+- [Canva](https://www.canva.com/presentations/) - AI drafts the deck and the biggest design library finishes it
+- [Beautiful.ai](https://www.beautiful.ai/) - Slides that align and format themselves as you add content
+- [Copilot in PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint) - AI inside the PowerPoint you already use, even from a Word document
+- [Genspark](https://www.genspark.ai/) - Research-heavy decks with a fact check on every slide
+- [Slidesgo](https://slidesgo.com/ai-presentations) - Free AI decks built on a big Google Slides and PowerPoint template library
+- [Presentations.ai](https://www.presentations.ai/) - Native PowerPoint files with brand sync and tracking on the free plan
 
 ---
 
